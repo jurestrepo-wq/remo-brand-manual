@@ -1,0 +1,34 @@
+{
+  "brand": "Remo Group S.A.S.",
+  "version": "2026-06-11-vector-assets",
+  "source": "Assets vectorizados cargados por Remo en Codex",
+  "logos": {
+    "primaryBlackVectorPdf": "assets/source/remo-logo-negro-vectorizado.pdf",
+    "primaryBlackWebPng": "assets/remo-logo-vectorizado-negro.png",
+    "darkBackgroundWhitePng": "assets/remo-logo-oficial-blanco.png",
+    "symbolFromVectorLogo": "assets/remo-isotipo-vectorizado-color.png",
+    "uploadedWhitePreview": "assets/source/remo-logo-blanco-vectorizado-preview.png",
+    "uploadedBlackPreview": "assets/source/remo-logo-negro-vectorizado-preview.png"
+  },
+  "colors": {
+    "orangeRemo": "#C06025",
+    "tealRemo": "#5EA0AB",
+    "black": "#000000",
+    "white": "#FFFFFF",
+    "deepBlue": "#083B4A",
+    "technicalGraphite": "#1F2933",
+    "fogGray": "#F3F6F8",
+    "logisticsSand": "#F6EFE7"
+  },
+  "typography": {
+    "display": "Baloo Da 2",
+    "body": "Poppins"
+  },
+  "rules": [
+    "Usar el logo principal negro sobre fondos claros.",
+    "Usar la version blanca solo sobre fondos oscuros.",
+    "No reconstruir el isotipo; derivarlo del logo vectorizado.",
+    "No deformar, rotar, sombrear ni recolorear el logo fuera de la paleta aprobada.",
+    "Marcar como pendiente de validacion directiva cualquier dato no confirmado."
+  ]
+}

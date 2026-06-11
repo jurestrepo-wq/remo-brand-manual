@@ -28,13 +28,16 @@ Incluye:
 
 ## Assets de marca incluidos
 
-El despliegue incluye assets reales de Remo:
+El despliegue incluye los assets vectorizados cargados por Remo:
 
-- `assets/remo-logo-oficial-color.png`
-- `assets/remo-logo-oficial-blanco.png`
-- `assets/remo-isotipo-oficial-color.png`
+- `brand-engine.json`
+- `assets/source/remo-logo-negro-vectorizado.pdf`
+- `assets/source/remo-logo-blanco-vectorizado-preview.png`
+- `assets/source/remo-logo-negro-vectorizado-preview.png`
+- `assets/remo-logo-vectorizado-negro.png`
+- `assets/remo-isotipo-vectorizado-color.png`
 
-Los logos color y blanco fueron descargados desde la web oficial de Remo Group. El isotipo fue recortado desde el logo oficial color para evitar reconstrucciones no autorizadas.
+El logo principal web fue renderizado desde el PDF vectorizado cargado. El isotipo fue recortado desde ese mismo logo vectorizado para evitar reconstrucciones no autorizadas. La version blanca horizontal para fondos oscuros se conserva como asset oficial web disponible en `assets/remo-logo-oficial-blanco.png`.
 
 Tambien se incorporo informacion observada en la web oficial:
 
@@ -44,4 +47,4 @@ Tambien se incorporo informacion observada en la web oficial:
 
 ## Nota
 
-Los archivos binarios previos del manual quedaron como placeholders `dataless` en macOS y no eran legibles para Git. Esta version web usa HTML/CSS materializado y assets oficiales descargados/derivados del logo oficial para despliegue estable en GitHub y Vercel.
+Los archivos binarios previos del manual quedaron como placeholders `dataless` en macOS y no eran legibles para Git. Esta version web usa HTML/CSS materializado y assets vectorizados cargados por Remo para despliegue estable en GitHub y Vercel.
