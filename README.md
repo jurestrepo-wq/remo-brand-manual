@@ -39,6 +39,26 @@ El despliegue incluye los assets vectorizados cargados por Remo:
 
 El logo principal web fue renderizado desde el PDF vectorizado cargado. El isotipo fue recortado desde ese mismo logo vectorizado para evitar reconstrucciones no autorizadas. La version blanca horizontal para fondos oscuros se conserva como asset oficial web disponible en `assets/remo-logo-oficial-blanco.png`.
 
+## Kit operativo construido
+
+El sitio incluye una biblioteca de plantillas descargables en `assets/templates/`.
+
+- `firma-correo.html`: firma corporativa editable.
+- `tarjeta-corporativa.svg`: tarjeta corporativa frente/reverso.
+- `propuesta-comercial.svg`: portada base de propuesta comercial.
+- `one-pager.svg`: resumen institucional de una pagina.
+- `diagnostico-internacionalizacion.svg`: diagnostico inicial.
+- `informe-avance.svg`: informe ejecutivo de avance.
+- `ficha-mercado.svg`: ficha de mercado.
+- `ficha-costos.svg`: matriz de costos.
+- `pitch-deck.svg`: slide maestro de presentacion.
+- `data-room-visual.svg`: estructura visual de data room.
+- `linkedin-post.svg`: plantilla editorial para LinkedIn.
+- `feria-empresarial.svg`: pieza vertical para feria o stand.
+- `asset-manifest.json`: indice operativo del kit.
+
+Los SVG incluyen el logo oficial embebido para que puedan abrirse, descargarse o importarse sin depender de rutas externas. Los textos no validados se dejan como campos editables o pendientes de validacion directiva.
+
 Tambien se incorporo informacion observada en la web oficial:
 
 - Capacidades: comercio exterior, logistica, comercial/abastecimiento y financiera/asegurabilidad.

@@ -1,0 +1,91 @@
+{
+  "brand": "Remo Group S.A.S.",
+  "version": "2026-06-11-operational-assets",
+  "principle": "Remo convierte la complejidad internacional en rutas claras de crecimiento.",
+  "files": [
+    {
+      "file": "firma-correo.html",
+      "name": "Firma de correo",
+      "format": "HTML",
+      "purpose": "Firma corporativa editable para correo empresarial.",
+      "pending": "Nombre, cargo, telefono, correo directo, URL y datos legales."
+    },
+    {
+      "file": "tarjeta-corporativa.svg",
+      "name": "Tarjeta corporativa",
+      "format": "SVG",
+      "purpose": "Frente y reverso de tarjeta personal para direccion, comercial y consultores.",
+      "pending": "Nombre, cargo, datos de contacto, direccion legal y QR."
+    },
+    {
+      "file": "propuesta-comercial.svg",
+      "name": "Propuesta comercial",
+      "format": "SVG",
+      "purpose": "Portada y sistema base para propuestas comerciales B2B.",
+      "pending": "Cliente, alcance, condiciones, responsables, fecha y version."
+    },
+    {
+      "file": "one-pager.svg",
+      "name": "One pager",
+      "format": "SVG",
+      "purpose": "Resumen institucional de una pagina para empresarios, aliados e inversionistas.",
+      "pending": "Cifras, casos, cobertura, clientes, traccion y datos de contacto."
+    },
+    {
+      "file": "diagnostico-internacionalizacion.svg",
+      "name": "Diagnostico",
+      "format": "SVG",
+      "purpose": "Plantilla para diagnostico inicial de internacionalizacion.",
+      "pending": "Criterios tecnicos, escala de evaluacion y responsable del diagnostico."
+    },
+    {
+      "file": "informe-avance.svg",
+      "name": "Informe de avance",
+      "format": "SVG",
+      "purpose": "Reporte ejecutivo de avance, riesgos y siguientes decisiones.",
+      "pending": "Indicadores, hitos, fechas, responsables y evidencias."
+    },
+    {
+      "file": "ficha-mercado.svg",
+      "name": "Ficha de mercado",
+      "format": "SVG",
+      "purpose": "Ficha para evaluar pais, segmento, canal, requisito y oportunidad.",
+      "pending": "Fuente de datos, mercado objetivo, aranceles, requisitos y canales."
+    },
+    {
+      "file": "ficha-costos.svg",
+      "name": "Ficha de costos",
+      "format": "SVG",
+      "purpose": "Matriz base para costos de importacion, exportacion y operacion.",
+      "pending": "Incoterm, moneda, TRM, proveedor, impuestos, fletes, seguros y margen."
+    },
+    {
+      "file": "pitch-deck.svg",
+      "name": "Pitch deck",
+      "format": "SVG",
+      "purpose": "Portada/slide maestro para presentaciones institucionales e inversion.",
+      "pending": "Metricas, mercado, modelo, clientes, traccion, equipo y necesidades de capital."
+    },
+    {
+      "file": "data-room-visual.svg",
+      "name": "Data room visual",
+      "format": "SVG",
+      "purpose": "Mapa visual para ordenar carpeta de inversion, aliados o due diligence.",
+      "pending": "Estructura legal, financiera, comercial, operacional y permisos de acceso."
+    },
+    {
+      "file": "linkedin-post.svg",
+      "name": "LinkedIn",
+      "format": "SVG",
+      "purpose": "Plantilla editorial para publicaciones B2B de comercio exterior.",
+      "pending": "Tema, fuente, CTA, URL y responsable de aprobacion."
+    },
+    {
+      "file": "feria-empresarial.svg",
+      "name": "Feria empresarial",
+      "format": "SVG",
+      "purpose": "Pieza vertical para stand, pendon o punto de contacto comercial.",
+      "pending": "Evento, ciudad, QR, contacto, aliados y oferta especifica."
+    }
+  ]
+}
