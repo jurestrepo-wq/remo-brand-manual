@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Isotipo Remo</title>
+  <desc id="desc">Simbolo circular de rutas conectadas inspirado en la o del logo Remo.</desc>
+  <rect width="160" height="160" rx="80" fill="#083B4A"/>
+  <circle cx="80" cy="80" r="45" fill="none" stroke="#fff" stroke-width="14"/>
+  <path d="M50 79C66 48 104 47 119 72" fill="none" stroke="#5EA0AB" stroke-width="11" stroke-linecap="round"/>
+  <path d="M111 101C91 126 53 111 43 86" fill="none" stroke="#C06025" stroke-width="11" stroke-linecap="round"/>
+  <circle cx="47" cy="85" r="9" fill="#C06025"/>
+  <circle cx="118" cy="70" r="9" fill="#5EA0AB"/>
+</svg>

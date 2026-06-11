@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 170" role="img" aria-labelledby="title desc">
+  <title id="title">Remo Group</title>
+  <desc id="desc">Logotipo tipografico de Remo con simbolo de conexion en la o.</desc>
+  <defs>
+    <style>
+      .word{font:700 104px "Baloo Da 2","Baloo 2","Poppins",Arial,sans-serif;letter-spacing:-1px;fill:#111820}
+      .dot{fill:#c06025}
+      .aqua{stroke:#5ea0ab}
+      .copper{stroke:#c06025}
+      .dark{stroke:#111820}
+    </style>
+  </defs>
+  <text class="word" x="34" y="116">rem</text>
+  <g transform="translate(320 83)">
+    <circle r="37" fill="none" stroke="#111820" stroke-width="12"/>
+    <path class="aqua" d="M-24 0C-9-25 21-25 32-6" fill="none" stroke-width="9" stroke-linecap="round"/>
+    <path class="copper" d="M25 19C8 39-23 27-32 7" fill="none" stroke-width="9" stroke-linecap="round"/>
+    <circle class="dot" cx="-28" cy="4" r="8"/>
+    <circle fill="#5ea0ab" cx="29" cy="-8" r="8"/>
+  </g>
+  <text class="word" x="364" y="116">group</text>
+</svg>
