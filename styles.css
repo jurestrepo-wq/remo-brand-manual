@@ -92,6 +92,7 @@ li + li {
 
 .brand img {
   width: clamp(150px, 18vw, 240px);
+  height: auto;
 }
 
 .nav-links {
@@ -507,7 +508,64 @@ li + li {
 }
 
 .dark-panel img {
-  filter: brightness(0) invert(1);
+  filter: none;
+}
+
+.asset-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.asset-grid article {
+  display: grid;
+  gap: 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 22px;
+  background: var(--white);
+}
+
+.asset-grid p {
+  color: #5b6a75;
+}
+
+.asset-grid a {
+  display: inline-flex;
+  width: fit-content;
+  min-height: 42px;
+  align-items: center;
+  border-radius: 999px;
+  padding: 0 16px;
+  background: var(--blue);
+  color: var(--white);
+  font-weight: 700;
+}
+
+.asset-preview {
+  display: grid;
+  min-height: 190px;
+  place-items: center;
+  border-radius: 8px;
+  padding: 24px;
+}
+
+.asset-preview img {
+  max-height: 120px;
+  object-fit: contain;
+}
+
+.asset-light {
+  background: var(--white);
+  border: 1px solid var(--line);
+}
+
+.asset-dark {
+  background: var(--blue);
+}
+
+.symbol-preview img {
+  max-height: 150px;
 }
 
 .note {
@@ -787,7 +845,6 @@ code {
 
 .footer img {
   width: 220px;
-  filter: brightness(0) invert(1);
 }
 
 .footer p:first-of-type {
@@ -807,6 +864,7 @@ code {
   .message-grid,
   .visual-rules,
   .logo-demo,
+  .asset-grid,
   .icons,
   .applications,
   .timeline,
@@ -839,6 +897,7 @@ code {
   .message-grid,
   .visual-rules,
   .logo-demo,
+  .asset-grid,
   .icons,
   .applications,
   .timeline,
