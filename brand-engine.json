@@ -1,6 +1,6 @@
 {
   "brand": "Remo Group S.A.S.",
-  "version": "2026-06-11-vector-assets",
+  "version": "2026-09-17-writing-style-1.2",
   "source": "Assets vectorizados cargados por Remo en Codex",
   "logos": {
     "primaryBlackVectorPdf": "assets/source/remo-logo-negro-vectorizado.pdf",
@@ -44,6 +44,23 @@
     "Usar la version blanca solo sobre fondos oscuros.",
     "No reconstruir el isotipo; derivarlo del logo vectorizado.",
     "No deformar, rotar, sombrear ni recolorear el logo fuera de la paleta aprobada.",
-    "Marcar como pendiente de validacion directiva cualquier dato no confirmado."
-  ]
+    "Marcar como pendiente de validacion directiva cualquier dato no confirmado.",
+    "Leer guidelines/estilo-de-escritura.md antes de redactar documentos corporativos; la norma 1.2 prevalece sobre ejemplos editoriales anteriores dentro de su ámbito de aplicación."
+  ],
+  "writingStyle": {
+    "version": "1.2",
+    "updated": "2026-09-17",
+    "canonicalPath": "guidelines/estilo-de-escritura.md",
+    "brandGuidelinesPath": "guidelines/brand-guidelines.md",
+    "scope": "Informes, propuestas, planes, presentaciones y piezas de canal dirigidos a empresarios, direcciones generales y comités de decisión.",
+    "person": "Tercera persona del singular; segunda persona únicamente en llamados a la acción de piezas comerciales.",
+    "register": "Consultor corporativo con rigor académico, explicativo y argumentativo.",
+    "argumentSequence": ["Dato observado", "Mecanismo", "Implicación para la decisión"],
+    "chapterSequence": ["Estado", "Evidencia", "Indicadores", "Decisión requerida"],
+    "maxSentencesPerBlock": 3,
+    "headings": "Nominales, sentence case, sin dos puntos, gancho, juicio ni verbo conjugado.",
+    "prohibited": ["Guiones como separadores de ideas", "Punto medio como separador", "Ceros iniciales en numeraciones", "Metatexto en piezas de cliente", "Aforismos", "Preguntas retóricas", "Adjetivación evaluativa", "Comentarios internos en piezas de cliente", "Emoji"],
+    "dataRule": "Declarar unidad, moneda, período, base y denominador; fecha de corte y conversión cuando aplique. Separar datos, supuestos y resultados; nombrar pendientes sin inventar valores.",
+    "commercialSequence": ["Problema del cliente", "Riesgo u oportunidad", "Ruta", "Beneficio empresarial", "Próximo paso"]
+  }
 }

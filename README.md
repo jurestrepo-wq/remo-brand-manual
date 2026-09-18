@@ -2,6 +2,12 @@
 
 Sitio estatico para publicar el Manual Integral de Marca de Remo Group S.A.S.
 
+## Estilo de escritura
+
+La [norma editorial compartida de Remo Group y Profe Financiero](guidelines/estilo-de-escritura.md), versión 1.2 del 17 de septiembre de 2026, forma parte de los [fundamentos verbales](guidelines/brand-guidelines.md#fundamentos-verbales).
+
+Aplica a informes, propuestas, planes, presentaciones y piezas de canal dirigidos a empresarios, direcciones generales y comités de decisión. Dentro de ese ámbito prevalece sobre los ejemplos editoriales anteriores. El manual web incluye el acceso [Estilo de escritura](index.html#estilo-de-escritura) y `brand-engine.json` registra las reglas para su aplicación en nuevos contenidos.
+
 ## Despliegue
 
 Este proyecto no requiere build.
@@ -19,6 +25,7 @@ Incluye:
 - Estrategia y posicionamiento
 - Arquitectura de marca
 - Identidad verbal
+- Estilo de escritura
 - Sistema visual
 - Logo, color y tipografia
 - Aplicaciones
