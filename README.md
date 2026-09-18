@@ -4,13 +4,13 @@ Sitio estático del Manual Integral de Marca de Remo Group S.A.S.
 
 ## Estilo de escritura
 
-La [norma editorial 2.2](guidelines/estilo-de-escritura.md), del 17 de septiembre de 2026, conserva sin modificaciones el texto entregado por Julián. Su denominación es ensayo argumentativo hipotético-deductivo, abreviada como estilo analítico deductivo Remo.
+La [norma editorial 2.3](guidelines/estilo-de-escritura.md), del 17 de septiembre de 2026, integra la actualización 2.2 aportada por Julián y el pensamiento complejo. Se denomina ensayo argumentativo hipotético-deductivo, abreviado como estilo analítico deductivo Remo; Estilo Julián Restrepo se conserva como alias.
 
-La actualización incorpora la prohibición de glosas de alcance y autorización y las reglas de maquetación: espacios de 10, 20 y 28 px, reparto del blanco, equilibrio entre páginas, justificación, centrado vertical y composición de portada. Mantiene el orden deductivo, la argumentación, la narración, la explicación, la corrección lingüística y la representación visual.
+La estructura presenta la idea principal, desarrolla variables y evidencia y concluye con una implicación delimitada, desde lo general a lo particular. El análisis examina contexto, interdependencias, retroalimentaciones, no linealidad, efectos diferidos, tensiones, escenarios e incertidumbre.
 
-La norma está enlazada desde los [fundamentos verbales, gráficos y de maquetación](guidelines/brand-guidelines.md), el [manual web](index.html#estilo-de-escritura), `AGENTS.md` y `brand-engine.json`. La [guía de aplicación](guidelines/instrucciones-chatgpt.md) contiene instrucciones para ChatGPT; el repositorio no modifica automáticamente la personalización de una cuenta.
+Se conservan las nuevas reglas de maquetación y reparto del espacio, justificación horizontal, centrado vertical, portada y eliminación de glosas de alcance o autorización. La norma incluye iconografía, mapas mentales, diagramación, renderizado, ortografía y gramática, con distinción entre BPM, BPMN e ISO 9001.
 
-La aplicación por defecto a todos los textos conserva la preferencia general expresada por Julián. El ámbito corporativo declarado en el archivo original permanece literal; las reglas de página se ejecutan en documentos maquetados.
+La norma está enlazada desde los [fundamentos verbales y gráficos](guidelines/brand-guidelines.md), el [manual web](index.html#estilo-de-escritura), `AGENTS.md` y `brand-engine.json`. La [guía de activación](guidelines/instrucciones-chatgpt.md) contiene instrucciones para ChatGPT; el repositorio no modifica automáticamente la personalización de una cuenta.
 
 ## Despliegue
 
@@ -18,7 +18,7 @@ El proyecto no requiere build. En Vercel se utiliza framework `Other`, sin build
 
 ## Contenido
 
-Diagnóstico, estrategia, posicionamiento, arquitectura, identidad verbal, estilo de escritura, maquetación, sistema visual, aplicaciones, gobernanza, implementación y pendientes de validación directiva.
+Diagnóstico, estrategia, posicionamiento, arquitectura, identidad verbal, estilo de escritura, pensamiento complejo, sistema visual, aplicaciones, gobernanza, implementación y pendientes de validación directiva.
 
 ## Activos oficiales
 
@@ -44,7 +44,7 @@ La biblioteca `assets/templates/` contiene:
 - `feria-empresarial.svg`: pieza de feria.
 - `asset-manifest.json`: índice del kit.
 
-Los SVG conservan el logo oficial embebido. Los datos no validados permanecen como campos editables; las plantillas existentes se revisan con la norma 2.2 antes de su siguiente publicación y no se han regenerado en esta actualización.
+Los SVG conservan el logo oficial embebido. Los datos no validados permanecen como campos editables; las plantillas existentes se revisan con la norma 2.3 antes de su siguiente publicación y no se han regenerado en esta actualización.
 
 ## Información institucional previa
 

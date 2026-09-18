@@ -1,6 +1,6 @@
 {
   "brand": "Remo Group S.A.S.",
-  "version": "2026-09-17-writing-style-2.2",
+  "version": "2026-09-17-writing-style-2.3",
   "source": "Assets vectorizados cargados por Remo en Codex",
   "logos": {
     "primaryBlackVectorPdf": "assets/source/remo-logo-negro-vectorizado.pdf",
@@ -20,10 +20,7 @@
     "fogGray": "#F3F6F8",
     "logisticsSand": "#F6EFE7"
   },
-  "typography": {
-    "display": "Baloo Da 2",
-    "body": "Poppins"
-  },
+  "typography": {"display": "Baloo Da 2", "body": "Poppins"},
   "templates": {
     "manifest": "assets/templates/asset-manifest.json",
     "emailSignature": "assets/templates/firma-correo.html",
@@ -45,30 +42,32 @@
     "No reconstruir el isotipo; derivarlo del logo vectorizado.",
     "No deformar, rotar, sombrear ni recolorear el logo fuera de la paleta aprobada.",
     "Marcar como pendiente de validacion directiva cualquier dato no confirmado.",
-    "Leer guidelines/estilo-de-escritura.md antes de todo texto o pieza visual; aplicar la norma 2.2 y la preferencia general expresada por Julián."
+    "Leer guidelines/estilo-de-escritura.md antes de todo texto o pieza visual; la norma 2.3 integra la revisión 2.2 del usuario y el pensamiento complejo."
   ],
   "writingStyle": {
-    "version": "2.2",
+    "version": "2.3",
     "updated": "2026-09-17",
     "name": "Ensayo argumentativo hipotético-deductivo",
     "shortName": "Estilo analítico deductivo Remo",
     "previousName": "Estilo Julián Restrepo",
-    "description": "Escritura argumentativa hipotético-deductiva, narrativa, explicativa y visual",
+    "aliases": ["Estilo Julián Restrepo"],
+    "description": "Escritura argumentativa, narrativa, explicativa y visual, con orden deductivo y pensamiento complejo",
     "global": true,
     "canonicalPath": "guidelines/estilo-de-escritura.md",
     "brandGuidelinesPath": "guidelines/brand-guidelines.md",
     "chatgptGuidePath": "guidelines/instrucciones-chatgpt.md",
-    "sourceBlobSha": "b8d7dce3fd0c1c525031fbd093c5e3eef96aa63d",
+    "sourceBlobSha": "56073e1ce3e23fff895f808d37971a5452521cdf",
+    "baseSourceBlobSha": "b8d7dce3fd0c1c525031fbd093c5e3eef96aa63d",
     "sourceScope": "Informes, propuestas, planes, presentaciones y piezas de canal dirigidos a empresarios, direcciones generales y comités de decisión.",
     "scope": "Aplicación por defecto a todos los textos, respuestas y piezas de Julián Restrepo, Profe Financiero y Remo Group, según la preferencia general del usuario.",
-    "precedence": "La norma original 2.2 sustituye las versiones anteriores como referencia editorial. Se conserva literalmente; las reglas de página se ejecutan en documentos maquetados.",
+    "precedence": "La norma 2.3 integra la revisión 2.2 y el pensamiento complejo, con aclaraciones metodológicas sobre evidencia y representación. Las reglas de página se ejecutan en documentos maquetados.",
     "person": "Tercera persona del singular; segunda persona en llamados a la acción. Conservar citas literales y sintaxis técnica necesaria.",
     "register": "Técnico comprensible, académico, argumentativo, narrativo, explicativo y sin grandilocuencia.",
-    "logicalSequence": ["Planteamiento de tesis o hipótesis", "Cuerpo argumentativo con variables, mecanismos y evidencia", "Demostración y conclusión"],
+    "logicalSequence": ["Planteamiento de tesis, hipótesis o idea rectora", "Cuerpo argumentativo con variables, mecanismos y evidencia", "Contrastación, conclusión e implicación"],
     "argumentSequence": ["Dato u observación", "Mecanismo", "Implicación para la decisión"],
     "chapterSequence": ["Estado", "Evidencia", "Indicadores", "Decisión requerida con condición de liberación"],
-    "deductiveOrder": "De lo general a lo particular, con numeración jerárquica sin ceros iniciales.",
-    "hypothesisOutcomes": ["Respaldo", "Respaldo parcial", "Contradicción", "Evidencia insuficiente"],
+    "deductiveOrder": "De lo general a lo particular, con numeración jerárquica sin ceros iniciales; no implica causalidad lineal.",
+    "hypothesisOutcomes": ["Respaldo", "Respaldo parcial", "Refutación", "Evidencia insuficiente"],
     "shortTextRule": "Integrar los tres momentos sin encabezados artificiales ni hipótesis empíricas inventadas.",
     "maxSentencesPerBlock": 3,
     "headings": "Nominales, sentence case, sin dos puntos, gancho, juicio ni verbo conjugado.",
@@ -76,7 +75,12 @@
     "releaseConditionRule": "La condición de liberación se consigna en la decisión requerida, no en glosas sobre lo que el documento permite o restringe.",
     "dataRule": "Declarar unidades, moneda, período, base, denominador y fechas pertinentes. Separar datos, supuestos e inferencias; admitir evidencia cualitativa y nombrar pendientes sin inventar cifras.",
     "commercialSequence": ["Problema del cliente", "Riesgo u oportunidad", "Ruta", "Beneficio empresarial sustentado", "Próximo paso"],
-    "competencies": ["Escritura narrativa y explicativa", "Ortografía y gramática", "Iconografía", "Diagramas numéricos y no numéricos", "Elementos gráficos y visuales", "Diagramación editorial", "Renderizado documental", "Mapas mentales", "BPM", "BPMN", "Enfoque por procesos de ISO 9001", "Maquetación y reparto del espacio"],
+    "competencies": ["Escritura narrativa y explicativa", "Ortografía y gramática", "Iconografía", "Diagramas numéricos y no numéricos", "Elementos gráficos y visuales", "Diagramación editorial", "Renderizado documental", "Mapas mentales", "BPM", "BPMN", "Enfoque por procesos de ISO 9001", "Maquetación y reparto del espacio", "Pensamiento complejo"],
+    "complexThinking": {
+      "required": true,
+      "dimensions": ["Contexto, partes y conjunto", "Interdependencias y retroalimentaciones", "No linealidad, emergencia y tiempo", "Tensiones y perspectivas", "Incertidumbre y revisión de hipótesis", "Decisión y consecuencias", "Representación visual", "Orden de exposición"],
+      "application": "Delimitar el sistema y sus actores, contrastar relaciones y escenarios pertinentes y examinar consecuencias directas, indirectas y no previstas. No añadir complejidad innecesaria ni inventar causalidad."
+    },
     "visualRule": "Elegir la representación que explique la idea; preservar activos oficiales, escalas y significado de relaciones. No confundir un gráfico con evidencia.",
     "processRule": "Distinguir BPM, BPMN y los requisitos de ISO 9001; no inferir certificación de un diagrama.",
     "documentLayout": {
@@ -91,6 +95,6 @@
       "headersAndFooters": "Sin encabezados ni pies descriptivos; numeración sola cuando sea necesaria.",
       "application": "Documentos maquetados; no simular control de página en texto de chat."
     },
-    "qualityGate": "Revisar lógica, evidencia, lenguaje, maquetación y archivo exportado cuando corresponda. Declarar verificaciones no realizadas."
+    "qualityGate": "Revisar lógica, contexto, interdependencias, incertidumbre, evidencia, lenguaje, maquetación y archivo exportado cuando corresponda. Declarar verificaciones no realizadas."
   }
 }

@@ -1,8 +1,8 @@
 ---
 title: Estilo de escritura, ensayo argumentativo hipotético-deductivo
-section: Fundamentos verbales, sistema gráfico y maquetación
+section: Fundamentos verbales, pensamiento complejo, sistema gráfico y maquetación
 brand: Remo Group, Profe Financiero
-version: 2.2
+version: 2.3
 updated: 2026-09-17
 ---
 
@@ -10,11 +10,15 @@ updated: 2026-09-17
 
 Norma editorial para informes, propuestas, planes, presentaciones y piezas de canal. Aplica a documentos dirigidos a empresarios, direcciones generales y comités de decisión.
 
+En GitHub y ChatGPT, esta lógica se aplica por defecto a los textos y piezas de ambas marcas, con profundidad proporcional al encargo. La denominación anterior «Estilo Julián Restrepo» se conserva como alias de uso; el nombre editorial es el establecido en el apartado siguiente.
+
 ## Denominación del estilo
 
 El estilo se denomina **ensayo argumentativo hipotético-deductivo**. En la práctica editorial de Remo Group y Profe Financiero se abrevia como **estilo analítico deductivo Remo**.
 
-Corresponde a un texto de estructura analítica que aplica el método científico a la redacción: plantea una tesis, desagrega sus variables, las contrasta con evidencia y concluye confirmándola o refutándola. Admite dos enfoques. El académico o científico, que ordena introducción, metodología, resultados y discusión para validar o descartar una hipótesis. El persuasivo o de opinión, que busca convencer mediante argumentos lógicos sustentados en datos, sin recurrir a la retórica vacía.
+Corresponde a un texto de estructura analítica que organiza la redacción mediante una lógica hipotético-deductiva: plantea una tesis, desagrega sus variables, las contrasta con evidencia y formula una conclusión según el alcance de la evidencia. La estructura editorial no sustituye el diseño de investigación ni la contrastación empírica.
+
+Admite dos enfoques. El académico o científico, que ordena introducción, metodología, resultados y discusión para validar o descartar una hipótesis. El persuasivo o de opinión, que busca convencer mediante argumentos lógicos sustentados en datos, sin recurrir a la retórica vacía.
 
 ## Estructura lógica obligatoria
 
@@ -24,7 +28,7 @@ Todo texto, del informe extenso al párrafo suelto, sigue tres momentos.
 
 **2. Cuerpo argumentativo.** Desglosa los componentes, expone cómo se relacionan las variables y presenta las pruebas, los datos y el marco de análisis. Cada variable se trata una vez y en el nivel de detalle que le corresponde.
 
-**3. Demostración y conclusión.** Determina, con base en el análisis anterior, si la hipótesis se confirma, se confirma parcialmente o se refuta. La conclusión no introduce información nueva: cierra el razonamiento abierto en el planteamiento.
+**3. Demostración y conclusión.** Determina, con base en el análisis anterior, si la evidencia respalda, respalda parcialmente o refuta la hipótesis, o resulta insuficiente para resolverla. La conclusión no introduce información nueva: cierra el razonamiento abierto en el planteamiento.
 
 ## Orden deductivo y numeración
 
@@ -100,6 +104,42 @@ Problema del cliente, riesgo u oportunidad, ruta, beneficio empresarial, próxim
 
 Reemplazos obligatorios: «garantizamos el éxito» por «aumenta la claridad y la viabilidad»; «sin ningún riesgo» por «identifica y gestiona riesgos»; «fácil y rápido» por «claro, acompañado y estructurado»; «oportunidades infinitas» por «oportunidades priorizadas»; «hacemos todo por ti» por «acompaña con método y ejecución».
 
+## 10. Pensamiento complejo
+
+El pensamiento complejo orienta el análisis de Profe Financiero y Remo. Cada problema se estudia en su contexto, mediante las relaciones entre sus componentes y el conjunto, sin reducir su explicación a una variable aislada.
+
+### 10.1. Contexto, partes y conjunto
+
+El análisis delimita el sistema, sus actores, las variables relevantes, el entorno y el período observado. Explica cómo las partes condicionan el funcionamiento del conjunto y cómo ese conjunto modifica el comportamiento de las partes, distinguiendo los niveles individual, familiar, empresarial, institucional y social cuando resulten pertinentes.
+
+### 10.2. Interdependencias y retroalimentaciones
+
+La relación entre variables se examina en ambas direcciones cuando la evidencia lo permite. Se identifican ciclos de retroalimentación, efectos que refuerzan o compensan un cambio y procesos cuyos resultados modifican las condiciones que los producen; no se representa toda relación como una cadena lineal.
+
+### 10.3. No linealidad, emergencia y tiempo
+
+El análisis considera que un cambio puede tener efectos desproporcionados, diferidos o dependientes de un umbral. Examina si la interacción genera comportamientos del conjunto que no se explican mediante la suma de sus partes y distingue los efectos de corto, mediano y largo plazo.
+
+### 10.4. Tensiones y perspectivas
+
+Se contrastan objetivos, restricciones e interpretaciones que pueden coexistir en tensión. La explicación integra las disciplinas necesarias para comprender el problema, sin acumular conceptos ajenos al caso ni resolver una contradicción mediante una simplificación retórica.
+
+### 10.5. Incertidumbre y revisión de hipótesis
+
+Se separan hechos, supuestos, inferencias y vacíos de información. La conclusión puede respaldar, respaldar parcialmente o refutar la hipótesis, o declarar evidencia insuficiente; una asociación no se convierte en causalidad y una corroboración no se presenta como demostración universal.
+
+### 10.6. Decisión y consecuencias
+
+Cada alternativa se examina por sus efectos directos, indirectos y no previstos, por las personas o procesos afectados y por sus condiciones de aplicación. Cuando corresponde, se explicitan escenarios, compensaciones entre objetivos y señales que justificarían revisar la decisión.
+
+### 10.7. Representación visual
+
+Los mapas de actores, mapas mentales, diagramas de relaciones y ciclos de retroalimentación hacen visibles las interdependencias relevantes. Cada conexión declara su sentido y diferencia asociación, dependencia, secuencia o causalidad propuesta; la representación gráfica facilita la explicación, pero no sustituye la evidencia.
+
+### 10.8. Orden de exposición
+
+La escritura conserva la secuencia tesis, argumentación y conclusión, de lo general a lo particular. El orden deductivo organiza la exposición sin imponer causalidad lineal al fenómeno, y la complejidad del análisis se expresa mediante lenguaje comprensible.
+
 ## 11. Competencia gráfica y documental
 
 La norma no se agota en el texto. Quien produce estos documentos domina la representación visual de la información y la maquetación editorial, y responde por la calidad ortográfica y gramatical de cada pieza.
@@ -112,11 +152,11 @@ La norma no se agota en el texto. Quien produce estos documentos domina la repre
 
 **Mapas mentales.** Domina el mapa mental como instrumento de análisis y de presentación. Ordena ideas, dependencias y jerarquías conceptuales en estructuras radiales o de árbol cuando el tema no admite secuencia lineal: un nodo central con la decisión o el concepto rector, ramas de primer nivel con los frentes, y hojas con evidencia, responsable o condición de cierre. El mapa declara la relación entre nodos, no solo su agrupación, y distingue jerarquía, dependencia y alternativa mediante posición, grosor de la conexión y color de acento.
 
-**Procesos en notación BPM.** Representa flujos con evento de inicio, tareas, compuertas exclusivas y paralelas, y evento de cierre. Cada compuerta declara su criterio de decisión.
+**Procesos con BPM y notación BPMN.** BPM corresponde a la gestión de procesos y BPMN a su notación gráfica. Representa flujos con evento de inicio, tareas, compuertas y evento de cierre; las compuertas exclusivas declaran condiciones de decisión y las paralelas representan simultaneidad.
 
-**Sistema de gestión ISO 9001.** Presenta los ciclos de mejora con la lógica planificar, hacer, verificar y actuar, con puntos de control que definen cuándo se libera una etapa y cuándo se detiene.
+**Sistema de gestión ISO 9001.** Presenta los ciclos de mejora con la lógica planificar, hacer, verificar y actuar, con puntos de control que definen cuándo se libera una etapa y cuándo se detiene. ISO 9001 establece requisitos de gestión y no es una notación gráfica; un diagrama no acredita certificación ni conformidad.
 
-**Representación de cualquier idea.** Toda proposición, por abstracta que sea, admite una forma visual que la haga verificable: cuadro comparativo, línea de tiempo, matriz de decisión, cascada, embudo o esquema de responsabilidades.
+**Representación de cualquier idea.** Toda proposición, por abstracta que sea, se evalúa para elegir una forma visual que facilite su comprensión: cuadro comparativo, línea de tiempo, matriz de decisión, cascada, embudo o esquema de responsabilidades.
 
 ## 12. Narración y explicación
 
@@ -132,10 +172,10 @@ La redacción combina dos competencias. La narrativa ordena la secuencia: conduc
 
 La página se compone con una sola cadencia vertical y con el blanco repartido, no acumulado.
 
-- **Escala de espacios.** Un paso base y sus múltiplos: 10 px entre etiqueta y dato, 20 px entre cabecera y texto, 28 px entre bloques de una misma página. Los valores intermedios se eliminan.
+- **Escala de espacios.** Una escala de tres valores: 10 px entre etiqueta y dato, 20 px entre cabecera y texto, 28 px entre bloques de una misma página. Los valores intermedios se eliminan.
 - **Reparto del blanco.** El espacio libre de una página se distribuye entre la parte superior y la inferior según la densidad del contenido. Ninguna página acumula el blanco al pie.
 - **Equilibrio entre páginas.** El margen libre de cada página se mantiene en un rango estrecho, de modo que el documento se lea con el mismo peso visual de principio a fin.
-- **Justificación horizontal.** Los textos corridos van justificados con partición de palabras. Los datos, las etiquetas y las cifras conservan su alineación natural, porque justificar una línea corta abre calles entre palabras.
+- **Justificación horizontal.** Los textos corridos van justificados con partición de palabras. La partición tipográfica al final de línea no equivale al guion como separador de ideas. Los datos, las etiquetas y las cifras conservan su alineación natural, porque justificar una línea corta abre calles entre palabras.
 - **Centrado vertical.** El contenido de cada celda, tarjeta o nodo se centra en su eje vertical, con altura mínima uniforme en los elementos de una misma fila.
 - **Portada.** Nombre del documento, destinatario con su cargo, empresa y fecha. Los logotipos institucionales se presentan a la misma altura óptica.
 - **Sin encabezado ni pie descriptivos.** La página no repite el título del documento ni su estado; cuando la numeración es necesaria, aparece sola.
@@ -151,7 +191,7 @@ La página se compone con una sola cadencia vertical y con el blanco repartido, 
 ## 15. Lista de verificación antes de entregar
 
 - El texto plantea su tesis antes de exponer el detalle.
-- El cuerpo relaciona variables con evidencia y el cierre confirma o refuta la tesis.
+- El cuerpo relaciona variables con evidencia y el cierre expresa respaldo, respaldo parcial, refutación o evidencia insuficiente.
 - El orden va de lo general a lo particular y la numeración respeta la jerarquía.
 - Ningún párrafo describe el documento ni glosa lo que permite o restringe.
 - Ningún título es una frase con gancho.
@@ -164,10 +204,15 @@ La página se compone con una sola cadencia vertical y con el blanco repartido, 
 - Todo pendiente está nombrado como pendiente.
 - Todo bloque explicativo tiene tres oraciones o menos.
 - Todo contenido numérico o conceptual complejo tiene su representación visual.
-- Todo proceso está expresado en notación BPM o en el ciclo de mejora ISO 9001.
+- Los procesos distinguen la notación BPMN del enfoque de gestión de ISO 9001.
 - Todo conjunto de ideas sin secuencia lineal está expresado en mapa mental, con jerarquías y dependencias explícitas.
 - Ningún término grandilocuente reemplaza a uno corriente de igual significado.
 - La ortografía, la acentuación y la concordancia están verificadas.
 - La escala de espacios es única y el blanco está repartido entre la parte superior y la inferior de cada página.
 - Los textos corridos están justificados y el contenido de cada celda está centrado en su eje vertical.
 - La portada declara documento, destinatario, empresa y fecha.
+- El análisis delimita contexto, actores, relaciones y niveles pertinentes.
+- Las retroalimentaciones, tensiones, efectos diferidos y consecuencias indirectas se examinan cuando corresponda.
+- El orden deductivo no se confunde con una explicación causal lineal.
+- Los diagramas distinguen relaciones observadas, hipótesis y vínculos pendientes de validar.
+- Las conclusiones reconocen incertidumbre y las condiciones que justificarían revisarlas.

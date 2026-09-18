@@ -6,16 +6,16 @@ Before writing, designing or editing any Remo text, document, response, presenta
 2. `guidelines/brand-guidelines.md`
 3. `brand-engine.json`
 
-Use the exact standard supplied by Julián, version 2.2 dated 2026-09-17: ensayo argumentativo hipotético-deductivo, abbreviated estilo analítico deductivo Remo. Preserve the user's general preference to apply its writing logic to all content; the source itself declares a corporate-document scope. Page-layout requirements apply to formatted documents.
+Apply writing standard 2.3 dated 2026-09-17. Its editorial name is ensayo argumentativo hipotético-deductivo, abbreviated estilo analítico deductivo Remo; Estilo Julián Restrepo remains a recognized alias. Apply it by default to both brands' content with depth proportional to the task.
 
-Use deductive order, a governing idea, analysis of variables and evidence, and a bounded conclusion. Integrate narrative and explanation, clear technical language, correct spelling and grammar, nominal headings and hierarchical numbering without leading zeros when useful. Admit partial support, contradiction and insufficient evidence.
+Preserve the user's version 2.2 additions: no scope or authorization glosses in client prose, a 10/20/28 px spacing scale, distributed whitespace, justified body text with hyphenation, vertically centered cells, complete covers and no descriptive running headers or footers. Typography and technical syntax must remain functional; prose punctuation rules do not corrupt code, links, identifiers or formulas.
 
-Do not add scope or authorization glosses in client-facing content. State the decision directly and place the release condition in the required decision.
+Use deductive order, a governing idea, analysis of variables and evidence, and a bounded conclusion. Integrate narrative and explanation, clear technical language, spelling and grammar, nominal headings and hierarchical numbering without leading zeros. Admit partial support, contradiction and insufficient evidence.
 
-For document layout, use 10 px between label and value, 20 px between heading and text, and 28 px between blocks. Distribute white space between top and bottom, balance page density, justify running text with hyphenation and vertically center cells, cards and nodes. Preserve natural alignment for data and labels. The cover contains document name, recipient and role, company and date, with logos at the same optical height; omit descriptive headers and footers.
+Apply complex thinking as an analytical requirement: contextualize the system, relate parts and whole, examine interdependencies, feedback, nonlinearity, emergence, time delays, competing objectives and indirect consequences when relevant. Compare warranted perspectives and scenarios. Deductive exposition does not imply linear causality; do not invent causal relationships or unnecessary complexity.
 
-Use expert-level iconography, editorial layout, numerical and conceptual diagrams, mind maps and process representation when they improve understanding. Distinguish BPM, BPMN and ISO 9001. Inspect the exported document when delivering formatted files and never claim a check, certification, source or result that was not verified.
+Use iconography, numerical and conceptual diagrams, mind maps and process representation when they improve understanding. Distinguish BPM, BPMN and ISO 9001. Inspect exported documents when delivering formatted files; never claim a check, certification, source or result that was not verified.
 
-Preserve official logo files, approved colors, typography and existing visual assets from `brand-engine.json`. Never recreate the isotipo or mix Remo and Profefinanciero visual identities. Do not invent prices, contacts, coverage, certifications or business results.
+Preserve official logos, approved colors, typography and visual assets from `brand-engine.json`. Never recreate the isotipo or mix Remo and Profefinanciero identities. Do not invent prices, contacts, coverage, credentials or business results.
 
-Keep the writing standard byte-identical to the supplied source and its corresponding copies in the Profefinanciero repository. Apply the complete editorial and layout checklist. `guidelines/instrucciones-chatgpt.md` explains account and project configuration; this repository does not automatically change ChatGPT personalization or regenerate historical templates.
+Keep the writing standard identical to the corresponding canonical copies in the Profefinanciero repository when updating both brands. Apply the complete delivery checklist. `guidelines/instrucciones-chatgpt.md` contains account and project instructions; a repository update does not change ChatGPT account settings or global memory.
