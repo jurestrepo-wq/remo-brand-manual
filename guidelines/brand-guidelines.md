@@ -1,14 +1,22 @@
 # Lineamientos de marca
 
-## Fundamentos verbales y gráficos
+## Fundamentos verbales, gráficos y de maquetación
 
-El [Estilo Julián Restrepo](estilo-de-escritura.md), versión 2.1 del 17 de septiembre de 2026, rige todos los textos y piezas de Remo Group y Profe Financiero. Su descripción es escritura argumentativa hipotético-deductiva, narrativa, explicativa y visual, con orden de lo general a lo particular.
+La [norma editorial 2.2](estilo-de-escritura.md), del 17 de septiembre de 2026, se denomina ensayo argumentativo hipotético-deductivo y se abrevia como estilo analítico deductivo Remo. El archivo conserva sin modificaciones el texto entregado por Julián para ambas marcas.
 
-La norma sustituye la restricción corporativa de la versión 1.2 y prevalece sobre ejemplos anteriores incompatibles. Cada pieza presenta su idea rectora, analiza variables y evidencia y concluye con una implicación delimitada; los textos breves integran esa lógica sin encabezados artificiales.
+La aplicación por defecto a todos los textos mantiene la preferencia general expresada por Julián. El ámbito documental corporativo de la fuente permanece literal; las reglas de página se aplican a documentos maquetados. Cada pieza presenta su idea rectora, analiza variables y evidencia y concluye con una implicación delimitada.
 
 ## Competencias
 
 La producción combina escritura narrativa y explicativa, ortografía y gramática, iconografía, diagramas numéricos y conceptuales, mapas mentales, diagramación editorial y revisión del renderizado. La representación de procesos distingue BPM, BPMN y el enfoque de ISO 9001.
+
+## Maquetación
+
+La norma prescribe espacios de 10, 20 y 28 px, reparto del blanco, equilibrio entre páginas, justificación con partición de palabras y centrado vertical de celdas, tarjetas y nodos. La portada incorpora documento, destinatario y cargo, empresa y fecha, con logotipos de igual altura óptica. Se eliminan encabezados y pies descriptivos, conservando la numeración sola cuando sea necesaria.
+
+## Redacción de decisiones
+
+No se incluyen glosas de alcance o autorización sobre lo que un documento permite o restringe. La decisión se enuncia directamente y su condición de liberación se consigna en la decisión requerida.
 
 ## Identidad de marca
 
@@ -16,7 +24,7 @@ El [manual web](../index.html#estilo-de-escritura) conserva el posicionamiento d
 
 ## Aplicación
 
-`AGENTS.md` exige leer la norma antes de redactar o diseñar. La [guía de activación](instrucciones-chatgpt.md) incluye las instrucciones para ChatGPT y agentes; una actualización de GitHub no modifica por sí sola los ajustes de una cuenta.
+`AGENTS.md` exige leer la norma antes de redactar o diseñar. La [guía de aplicación](instrucciones-chatgpt.md) incluye las instrucciones para ChatGPT y agentes; una actualización de GitHub no modifica por sí sola los ajustes de una cuenta.
 
 ## Control editorial
 
