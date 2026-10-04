@@ -28,6 +28,26 @@ Las instrucciones de proyecto se aplican en ese proyecto y prevalecen sobre las 
 
 ## Uso con GitHub
 
+### Productos e informes REMO
+
+Añadir al proyecto REMO, junto con las instrucciones estratégicas vigentes:
+
+```text
+Consultar guidelines/experiencia-productos-informes.md en remo-brand-manual,
+versión 1.0.0 del 4 de octubre de 2026. Lo complejo lo hacemos simple:
+todos los desarrollos e informes REMO usan minimalismo, simplicidad,
+intuitividad, gamificación profesional y explicación visual, conservando
+rigurosidad técnica y científica y profundidad mediante resumen, análisis
+y evidencia. Mantener riesgos, fuentes, faltantes y límites materiales visibles.
+Aplicar digital-gamification e impeccable y las skills visuales y de PDF
+pertinentes cuando estén disponibles, después de leer sus instrucciones.
+Ofrecer PDF gráfico y legible para resultados de negocio, con filtros,
+fuentes, unidades, fecha de corte y cifras concordantes con la pantalla.
+Comprobar accesibilidad, estados, integridad y archivos exportados según
+el encargo; declarar controles pendientes. Usar la guía de adopción para
+instrucciones de desarrollo, sin afirmar cambios automáticos en otras apps.
+```
+
 Antes de producir contenido, leer `AGENTS.md` y `guidelines/estilo-de-escritura.md` en la revisión vigente del repositorio correspondiente. El alias Estilo Julián Restrepo remite ahora al ensayo argumentativo hipotético-deductivo, abreviado como estilo analítico deductivo Remo, con pensamiento complejo.
 
 Un commit de GitHub no modifica la configuración ni la memoria global de una cuenta de ChatGPT. Esta guía prepara el contenido para esos ajustes; solo corresponde afirmar un cambio de configuración cuando se haya realizado efectivamente.

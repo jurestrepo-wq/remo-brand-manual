@@ -1,5 +1,11 @@
 # Lineamientos de marca
 
+## Experiencia de productos e informes
+
+La [norma de experiencia 1.0.0](experiencia-productos-informes.md), del 4 de octubre de 2026, aplica a todos los desarrollos y entregables de REMO. **Lo complejo lo hacemos simple:** experiencia minimalista, intuitiva, visual y gamificada, con rigurosidad técnica y científica y profundidad accesible por capas.
+
+Los resultados de negocio se entregan en PDF gráfico, con fuentes, filtros y cifras concordantes con la pantalla. La [guía de adopción](adopcion-experiencia-remo.md) permite incorporar los criterios en las instrucciones y la aceptación de cada proyecto.
+
 ## Fundamentos verbales y gráficos
 
 La [norma editorial 2.3](estilo-de-escritura.md), del 17 de septiembre de 2026, incorpora la actualización 2.2 aportada por Julián y el pensamiento complejo. Se denomina ensayo argumentativo hipotético-deductivo, abreviado como estilo analítico deductivo Remo; Estilo Julián Restrepo se conserva como alias.

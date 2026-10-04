@@ -2,6 +2,14 @@
 
 Sitio estático del Manual Integral de Marca de Remo Group S.A.S.
 
+## Experiencia de productos e informes
+
+La [norma de experiencia 1.0.0](guidelines/experiencia-productos-informes.md), del 4 de octubre de 2026, establece el criterio **Lo complejo lo hacemos simple** para todos los desarrollos y entregables de REMO: minimalismo, simplicidad, intuitividad, gamificación profesional y explicación visual, con rigor técnico y científico.
+
+Define resumen, análisis y evidencia por capas; guía opcional y progreso verificable; y exportación PDF gráfica con concordancia de datos, filtros y fuentes. Incluye selección de skills, accesibilidad y criterios de aceptación; la [guía de adopción](guidelines/adopcion-experiencia-remo.md) contiene el bloque para instrucciones de desarrollo y el registro por entrega.
+
+La norma está conectada a `AGENTS.md`, `brand-engine.json`, los lineamientos, la guía de ChatGPT y el [manual web](index.html#experiencia-productos-informes). Su publicación establece el criterio; las aplicaciones y plantillas existentes verifican su adopción en cada intervención autorizada.
+
 ## Estilo de escritura
 
 La [norma editorial 2.3](guidelines/estilo-de-escritura.md), del 17 de septiembre de 2026, integra la actualización 2.2 aportada por Julián y el pensamiento complejo. Se denomina ensayo argumentativo hipotético-deductivo, abreviado como estilo analítico deductivo Remo; Estilo Julián Restrepo se conserva como alias.
