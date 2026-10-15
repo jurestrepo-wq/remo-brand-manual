@@ -1,6 +1,6 @@
 {
   "brand": "Remo Group S.A.S.",
-  "version": "2026-10-04-experience-1.0.0-writing-style-2.3",
+  "version": "2026-10-15-presentations-1.0.0-experience-1.0.0-writing-style-2.3",
   "source": "Assets vectorizados cargados por Remo en Codex",
   "logos": {
     "primaryBlackVectorPdf": "assets/source/remo-logo-negro-vectorizado.pdf",
@@ -46,7 +46,8 @@
     "No deformar, rotar, sombrear ni recolorear el logo fuera de la paleta aprobada.",
     "Marcar como pendiente de validacion directiva cualquier dato no confirmado.",
     "Leer guidelines/estilo-de-escritura.md antes de todo texto o pieza visual; la norma 2.3 integra la revisión 2.2 del usuario y el pensamiento complejo.",
-    "Leer guidelines/experiencia-productos-informes.md para todo desarrollo e informe REMO; aplicar BRAND-EXPERIENCE-1.0.0 y verificar exportaciones."
+    "Leer guidelines/experiencia-productos-informes.md para todo desarrollo e informe REMO; aplicar BRAND-EXPERIENCE-1.0.0 y verificar exportaciones.",
+    "Leer guidelines/presentaciones.md antes de toda presentación REMO; aplicar BRAND-PRESENTATIONS-1.0.0 y completar la auditoría final obligatoria por entrega."
   ],
   "writingStyle": {
     "version": "2.3",
@@ -240,5 +241,41 @@
       "Concordancia pantalla y exportaciones"
     ],
     "adoptionRule": "Verificar y registrar conformidad por entrega; publicar la norma no migra aplicaciones existentes."
+  },
+  "presentations": {
+    "version": "1.0.0",
+    "updated": "2026-10-15",
+    "changeId": "BRAND-PRESENTATIONS-1.0.0",
+    "canonicalPath": "guidelines/presentaciones.md",
+    "requiredReading": true,
+    "scope": "Toda presentación REMO nueva o modificada",
+    "style": "TED Talks: explicación humanizada, visual, simple y paso a paso; una idea por lámina y soporte oral",
+    "photography": {
+      "fullBleedWhenUsed": true,
+      "requiredOnEverySlide": false,
+      "contextRelevant": true,
+      "illustrativeDisclosureWhenNeeded": true,
+      "documentaryClaimsRequireEvidence": true
+    },
+    "iconography": "Coherente y abundante cuando aporte comprensión; sin cuotas ni decoración redundante",
+    "finalAudit": {
+      "required": true,
+      "inspectEveryFinalSlide": true,
+      "checks": [
+        "Contenido y fuentes",
+        "Voz y escritura 2.3",
+        "Marca",
+        "Lógica y oralidad",
+        "Contraste y legibilidad",
+        "Fotografía y anatomía",
+        "Diagramas y gráficos",
+        "Concordancia PDF y PPTX cuando se entreguen ambos",
+        "Editabilidad y fuentes tipográficas",
+        "Limpieza de entrega"
+      ],
+      "pendingControlsBlockApprovedStatus": true
+    },
+    "cleanup": "Eliminar comentarios internos, prompts, etiquetas de producción, redundancias, numeración arbitraria y rastros de elaboración sin utilidad para el cliente; conservar fuentes, advertencias sustantivas, atribuciones y distinción entre ilustración y hecho.",
+    "adoptionRule": "Registrar versión, commit y controles por entrega; la publicación no modifica automáticamente proyectos ni configuraciones externas."
   }
 }

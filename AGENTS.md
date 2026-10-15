@@ -7,6 +7,7 @@ Before writing, designing or editing any Remo text, document, response, presenta
 3. `brand-engine.json`
 4. `guidelines/experiencia-productos-informes.md`
 5. `guidelines/adopcion-experiencia-remo.md` for product work and new repositories
+6. `guidelines/presentaciones.md` before every presentation
 
 Apply writing standard 2.3 dated 2026-09-17. Its editorial name is ensayo argumentativo hipotético-deductivo, abbreviated estilo analítico deductivo Remo; Estilo Julián Restrepo remains a recognized alias. Apply it by default to both brands' content with depth proportional to the task.
 
@@ -31,3 +32,9 @@ Use available task-specific skills after reading their instructions: digital-gam
 Keep material risks, uncertainty, sources, units, coverage and missing data visible. Guide state must not change domain data, filters, permissions or critical decisions. Preserve official assets and the editorial standard; UI labels and controls use natural alignment.
 
 Every business result must have a legible PDF delivery, with graphical explanations and the same data snapshot, filters, assumptions and totals as the screen. Add CSV/XLSX for tabular data where relevant. Accept only after appropriate functional checks, accessibility checks, export concordance and inspection of the generated PDF. Record unverified criteria explicitly.
+
+## Presentations and mandatory final audit
+
+Apply BRAND-PRESENTATIONS-1.0.0 dated 2026-10-15 to every new or modified REMO presentation. Read the canonical presentation guide before scripting or designing. Use TED Talks style: human, simple, step-by-step oral support with one idea per slide, authentic-looking context-relevant photography, consistent functional iconography and useful diagrams. Photographs are full bleed when used; clear brand backgrounds remain appropriate for process and data slides. Preserve writing standard 2.3 and official assets.
+
+Before delivery, open and inspect every final slide and complete the guide's mandatory audit for content, voice, brand, logic, contrast, anatomy, legibility, diagrams, PDF/PPTX concordance, editability, fonts and cleanup. Remove internal production residue while retaining sources, meaningful warnings, useful speaker notes and necessary illustrative-image disclosures. Never present generated imagery as documentary proof. Record evidence and unresolved checks; do not claim audited approval with pending controls.

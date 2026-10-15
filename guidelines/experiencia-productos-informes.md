@@ -100,6 +100,8 @@ Los gráficos cuantitativos proceden de datos y cálculos verificables; no se ge
 
 El informe incluye portada pertinente, resumen ejecutivo visual, análisis, implicación o decisión y evidencia técnica. La profundidad se ajusta al encargo; un resumen breve conserva el acceso a anexos necesarios y referencias APA en trabajos académicos.
 
+Las presentaciones cumplen además la [norma de presentaciones 1.0.0](presentaciones.md), del 15 de octubre de 2026. Su lectura previa y auditoría final son obligatorias para cada entrega; se verifica soporte oral, fotografía a sangre cuando se use, anatomía, diagramas, limpieza y concordancia de los formatos entregados.
+
 ## 9. Exportación y entrega PDF
 
 Todo resultado de negocio consultable debe poder entregarse: dashboard, reporte, informe, mapa, tabla, escenario o resultado de simulación. Cada desarrollo con esos resultados incorpora exportación PDF como criterio de aceptación; los datos tabulares disponen además de CSV o XLSX cuando corresponda.

@@ -2,6 +2,12 @@
 
 Sitio estático del Manual Integral de Marca de Remo Group S.A.S.
 
+## Presentaciones
+
+La [norma de presentaciones 1.0.0](guidelines/presentaciones.md), del 15 de octubre de 2026, es de lectura y aplicación obligatorias para toda presentación REMO nueva o modificada. Define estilo TED Talks, explicación humanizada y paso a paso, una idea por lámina, fotografías a sangre cuando se utilicen, iconografía funcional y diagramas útiles, conservando el estilo editorial 2.3.
+
+La entrega requiere auditoría final de contenido, voz, marca, lógica, contraste, anatomía, legibilidad, diagramas, concordancia PDF/PPTX, editabilidad, fuentes tipográficas y limpieza. Las fuentes de evidencia y advertencias sustantivas se conservan. La norma está conectada a `AGENTS.md` y `brand-engine.json`; su publicación no acredita adopción automática en agentes o proyectos externos.
+
 ## Experiencia de productos e informes
 
 La [norma de experiencia 1.0.0](guidelines/experiencia-productos-informes.md), del 4 de octubre de 2026, establece el criterio **Lo complejo lo hacemos simple** para todos los desarrollos y entregables de REMO: minimalismo, simplicidad, intuitividad, gamificación profesional y explicación visual, con rigor técnico y científico.

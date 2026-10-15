@@ -52,6 +52,10 @@ Antes de producir contenido, leer `AGENTS.md` y `guidelines/estilo-de-escritura.
 
 Un commit de GitHub no modifica la configuración ni la memoria global de una cuenta de ChatGPT. Esta guía prepara el contenido para esos ajustes; solo corresponde afirmar un cambio de configuración cuando se haya realizado efectivamente.
 
+## Presentaciones REMO
+
+Antes de crear o modificar cualquier presentación REMO, leer y aplicar [presentaciones.md](presentaciones.md), versión 1.0.0 del 15 de octubre de 2026. El estilo TED Talks conserva la escritura 2.3 y requiere una idea por lámina, explicación humana y progresiva, fotografías a sangre cuando se usen, iconografía coherente y diagramas útiles. Completar y registrar la auditoría final obligatoria de la guía antes de declarar aprobada la entrega; conservar fuentes, advertencias y la distinción entre imágenes ilustrativas y hechos reales.
+
 ## Referencias
 
 OpenAI. «Instrucciones personalizadas de ChatGPT». Consultado el 17 de septiembre de 2026. https://help.openai.com/es-es/articles/8096356-chatgpt-custom-instructions

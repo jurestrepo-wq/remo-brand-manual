@@ -9,6 +9,8 @@ Antes de diseñar, desarrollar o modificar una superficie REMO, consultar en
 jurestrepo-wq/remo-brand-manual, rama main:
 AGENTS.md, brand-engine.json, guidelines/estilo-de-escritura.md y
 guidelines/experiencia-productos-informes.md.
+Para toda presentación, leer además guidelines/presentaciones.md y aplicar
+BRAND-PRESENTATIONS-1.0.0, con auditoría final obligatoria y registro por entrega.
 
 Aplicar BRAND-EXPERIENCE-1.0.0: lo complejo lo hacemos simple.
 Experiencia minimalista, intuitiva, visual y gamificada con guía opcional,
