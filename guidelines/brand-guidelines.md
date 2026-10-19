@@ -8,7 +8,7 @@ Los resultados de negocio se entregan en PDF gráfico, con fuentes, filtros y ci
 
 ## Fundamentos verbales y gráficos
 
-La [norma editorial 2.3](estilo-de-escritura.md), del 17 de septiembre de 2026, incorpora la actualización 2.2 aportada por Julián y el pensamiento complejo. Se denomina ensayo argumentativo hipotético-deductivo, abreviado como estilo analítico deductivo Remo; Estilo Julián Restrepo se conserva como alias.
+La [norma editorial 2.4](estilo-de-escritura.md), del 18 de octubre de 2026, incorpora la actualización 2.2 aportada por Julián y el pensamiento complejo. Se denomina ensayo argumentativo hipotético-deductivo, abreviado como estilo analítico deductivo Remo; Estilo Julián Restrepo se conserva como alias.
 
 La lógica rige por defecto los textos y piezas de Remo Group y Profe Financiero, con profundidad proporcional al encargo. Cada pieza presenta su idea rectora, analiza variables y evidencia y concluye con una implicación delimitada, de lo general a lo particular.
 
@@ -33,3 +33,7 @@ El [manual web](../index.html#estilo-de-escritura) conserva el posicionamiento d
 `AGENTS.md` exige leer la norma antes de redactar o diseñar. La [guía de ChatGPT](instrucciones-chatgpt.md) contiene instrucciones reutilizables; una actualización de GitHub no modifica los ajustes de una cuenta.
 
 La entrega exige la lista completa de revisión. Los pendientes se identifican y las conclusiones admiten respaldo parcial, refutación o evidencia insuficiente; no se inventan cifras, certificaciones ni verificaciones.
+
+## Pensamiento causal y explicación
+
+La [guía de pensamiento causal y explicación](pensamiento-causal-explicacion.md) incorpora el análisis de causa raíz a la norma editorial 2.4. La lógica compartida distingue observación, mecanismo, hipótesis, evidencia y acción verificable; REMO prioriza decisiones empresariales y Profe Financiero, comprensión y autonomía financiera.

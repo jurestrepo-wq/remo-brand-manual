@@ -4,7 +4,7 @@ Sitio estático del Manual Integral de Marca de Remo Group S.A.S.
 
 ## Presentaciones
 
-La [norma de presentaciones 1.0.0](guidelines/presentaciones.md), del 15 de octubre de 2026, es de lectura y aplicación obligatorias para toda presentación REMO nueva o modificada. Define estilo TED Talks, explicación humanizada y paso a paso, una idea por lámina, fotografías a sangre cuando se utilicen, iconografía funcional y diagramas útiles, conservando el estilo editorial 2.3.
+La [norma de presentaciones 1.0.0](guidelines/presentaciones.md), del 15 de octubre de 2026, es de lectura y aplicación obligatorias para toda presentación REMO nueva o modificada. Define estilo TED Talks, explicación humanizada y paso a paso, una idea por lámina, fotografías a sangre cuando se utilicen, iconografía funcional y diagramas útiles, conservando el estilo editorial 2.4.
 
 La entrega requiere auditoría final de contenido, voz, marca, lógica, contraste, anatomía, legibilidad, diagramas, concordancia PDF/PPTX, editabilidad, fuentes tipográficas y limpieza. Las fuentes de evidencia y advertencias sustantivas se conservan. La norma está conectada a `AGENTS.md` y `brand-engine.json`; su publicación no acredita adopción automática en agentes o proyectos externos.
 
@@ -18,7 +18,7 @@ La norma está conectada a `AGENTS.md`, `brand-engine.json`, los lineamientos, l
 
 ## Estilo de escritura
 
-La [norma editorial 2.3](guidelines/estilo-de-escritura.md), del 17 de septiembre de 2026, integra la actualización 2.2 aportada por Julián y el pensamiento complejo. Se denomina ensayo argumentativo hipotético-deductivo, abreviado como estilo analítico deductivo Remo; Estilo Julián Restrepo se conserva como alias.
+La [norma editorial 2.4](guidelines/estilo-de-escritura.md), del 18 de octubre de 2026, integra la actualización 2.2 aportada por Julián y el pensamiento complejo. Se denomina ensayo argumentativo hipotético-deductivo, abreviado como estilo analítico deductivo Remo; Estilo Julián Restrepo se conserva como alias.
 
 La estructura presenta la idea principal, desarrolla variables y evidencia y concluye con una implicación delimitada, desde lo general a lo particular. El análisis examina contexto, interdependencias, retroalimentaciones, no linealidad, efectos diferidos, tensiones, escenarios e incertidumbre.
 
@@ -58,7 +58,7 @@ La biblioteca `assets/templates/` contiene:
 - `feria-empresarial.svg`: pieza de feria.
 - `asset-manifest.json`: índice del kit.
 
-Los SVG conservan el logo oficial embebido. Los datos no validados permanecen como campos editables; las plantillas existentes se revisan con la norma 2.3 antes de su siguiente publicación y no se han regenerado en esta actualización.
+Los SVG conservan el logo oficial embebido. Los datos no validados permanecen como campos editables; las plantillas existentes se revisan con la norma 2.4 antes de su siguiente publicación y no se han regenerado en esta actualización.
 
 ## Información institucional previa
 
@@ -67,3 +67,7 @@ La versión anterior incorporó capacidades de comercio exterior, logística, co
 ## Antecedente técnico
 
 Los binarios originales quedaron como placeholders `dataless` en macOS. El manual utiliza HTML/CSS y los activos vectorizados aportados; la actualización editorial no modifica esos archivos históricos.
+
+## Pensamiento causal y explicación
+
+La [guía de pensamiento causal y explicación](guidelines/pensamiento-causal-explicacion.md) incorpora el análisis de causa raíz a la norma editorial 2.4. La lógica compartida distingue observación, mecanismo, hipótesis, evidencia y acción verificable; REMO prioriza decisiones empresariales y Profe Financiero, comprensión y autonomía financiera.

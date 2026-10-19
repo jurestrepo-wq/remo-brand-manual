@@ -9,7 +9,7 @@ Before writing, designing or editing any Remo text, document, response, presenta
 5. `guidelines/adopcion-experiencia-remo.md` for product work and new repositories
 6. `guidelines/presentaciones.md` before every presentation
 
-Apply writing standard 2.3 dated 2026-09-17. Its editorial name is ensayo argumentativo hipotético-deductivo, abbreviated estilo analítico deductivo Remo; Estilo Julián Restrepo remains a recognized alias. Apply it by default to both brands' content with depth proportional to the task.
+Apply writing standard 2.4 dated 2026-10-18. Its editorial name is ensayo argumentativo hipotético-deductivo, abbreviated estilo analítico deductivo Remo; Estilo Julián Restrepo remains a recognized alias. Apply it by default to both brands' content with depth proportional to the task.
 
 Preserve the user's version 2.2 additions: no scope or authorization glosses in client prose, a 10/20/28 px spacing scale, distributed whitespace, justified body text with hyphenation, vertically centered cells, complete covers and no descriptive running headers or footers. Typography and technical syntax must remain functional; prose punctuation rules do not corrupt code, links, identifiers or formulas.
 
@@ -35,6 +35,10 @@ Every business result must have a legible PDF delivery, with graphical explanati
 
 ## Presentations and mandatory final audit
 
-Apply BRAND-PRESENTATIONS-1.0.0 dated 2026-10-15 to every new or modified REMO presentation. Read the canonical presentation guide before scripting or designing. Use TED Talks style: human, simple, step-by-step oral support with one idea per slide, authentic-looking context-relevant photography, consistent functional iconography and useful diagrams. Photographs are full bleed when used; clear brand backgrounds remain appropriate for process and data slides. Preserve writing standard 2.3 and official assets.
+Apply BRAND-PRESENTATIONS-1.0.0 dated 2026-10-15 to every new or modified REMO presentation. Read the canonical presentation guide before scripting or designing. Use TED Talks style: human, simple, step-by-step oral support with one idea per slide, authentic-looking context-relevant photography, consistent functional iconography and useful diagrams. Photographs are full bleed when used; clear brand backgrounds remain appropriate for process and data slides. Preserve writing standard 2.4 and official assets.
 
 Before delivery, open and inspect every final slide and complete the guide's mandatory audit for content, voice, brand, logic, contrast, anatomy, legibility, diagrams, PDF/PPTX concordance, editability, fonts and cleanup. Remove internal production residue while retaining sources, meaningful warnings, useful speaker notes and necessary illustrative-image disclosures. Never present generated imagery as documentary proof. Record evidence and unresolved checks; do not claim audited approval with pending controls.
+
+## Causal reasoning and explanation
+
+Apply BRAND-THINKING-1.0.0 and editorial standard 2.4, section 16. Distinguish observations, mechanisms, hypotheses, alternatives and evidence; use RCA tools proportionally, retain denominators and check efficacy separately from implementation. Use the shared causal guide and adapt REMO to business decisions and Profefinanciero to respectful financial education. Do not require confirmation for every methodological phase within an authorized task.

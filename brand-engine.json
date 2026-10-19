@@ -1,6 +1,6 @@
 {
   "brand": "Remo Group S.A.S.",
-  "version": "2026-10-15-presentations-1.0.0-experience-1.0.0-writing-style-2.3",
+  "version": "2026-10-18-thinking-1.0.0-writing-style-2.4",
   "source": "Assets vectorizados cargados por Remo en Codex",
   "logos": {
     "primaryBlackVectorPdf": "assets/source/remo-logo-negro-vectorizado.pdf",
@@ -45,13 +45,14 @@
     "No reconstruir el isotipo; derivarlo del logo vectorizado.",
     "No deformar, rotar, sombrear ni recolorear el logo fuera de la paleta aprobada.",
     "Marcar como pendiente de validacion directiva cualquier dato no confirmado.",
-    "Leer guidelines/estilo-de-escritura.md antes de todo texto o pieza visual; la norma 2.3 integra la revisión 2.2 del usuario y el pensamiento complejo.",
+    "Leer guidelines/estilo-de-escritura.md antes de todo texto o pieza visual; la norma 2.4 integra la revisión 2.2 del usuario y el pensamiento complejo.",
     "Leer guidelines/experiencia-productos-informes.md para todo desarrollo e informe REMO; aplicar BRAND-EXPERIENCE-1.0.0 y verificar exportaciones.",
-    "Leer guidelines/presentaciones.md antes de toda presentación REMO; aplicar BRAND-PRESENTATIONS-1.0.0 y completar la auditoría final obligatoria por entrega."
+    "Leer guidelines/presentaciones.md antes de toda presentación REMO; aplicar BRAND-PRESENTATIONS-1.0.0 y completar la auditoría final obligatoria por entrega.",
+    "Aplicar guidelines/pensamiento-causal-explicacion.md como estilo de pensamiento y explicación; adaptar la voz a cada marca."
   ],
   "writingStyle": {
-    "version": "2.3",
-    "updated": "2026-09-17",
+    "version": "2.4",
+    "updated": "2026-10-18",
     "name": "Ensayo argumentativo hipotético-deductivo",
     "shortName": "Estilo analítico deductivo Remo",
     "previousName": "Estilo Julián Restrepo",
@@ -63,11 +64,11 @@
     "canonicalPath": "guidelines/estilo-de-escritura.md",
     "brandGuidelinesPath": "guidelines/brand-guidelines.md",
     "chatgptGuidePath": "guidelines/instrucciones-chatgpt.md",
-    "sourceBlobSha": "56073e1ce3e23fff895f808d37971a5452521cdf",
-    "baseSourceBlobSha": "b8d7dce3fd0c1c525031fbd093c5e3eef96aa63d",
+    "sourceBlobSha": "d417e4e1b7f7e874da36127dcaaec63886ce769a",
+    "baseSourceBlobSha": "56073e1ce3e23fff895f808d37971a5452521cdf",
     "sourceScope": "Informes, propuestas, planes, presentaciones y piezas de canal dirigidos a empresarios, direcciones generales y comités de decisión.",
     "scope": "Aplicación por defecto a todos los textos, respuestas y piezas de Julián Restrepo, Profe Financiero y Remo Group, según la preferencia general del usuario.",
-    "precedence": "La norma 2.3 integra la revisión 2.2 y el pensamiento complejo, con aclaraciones metodológicas sobre evidencia y representación. Las reglas de página se ejecutan en documentos maquetados.",
+    "precedence": "La norma 2.4 conserva la revisión 2.3 e integra pensamiento causal, investigación por evidencia y explicación verificable. La intensidad metodológica es proporcional al encargo.",
     "person": "Tercera persona del singular; segunda persona en llamados a la acción. Conservar citas literales y sintaxis técnica necesaria.",
     "register": "Técnico comprensible, académico, argumentativo, narrativo, explicativo y sin grandilocuencia.",
     "logicalSequence": [
@@ -169,7 +170,62 @@
       "headersAndFooters": "Sin encabezados ni pies descriptivos; numeración sola cuando sea necesaria.",
       "application": "Documentos maquetados; no simular control de página en texto de chat."
     },
-    "qualityGate": "Revisar lógica, contexto, interdependencias, incertidumbre, evidencia, lenguaje, maquetación y archivo exportado cuando corresponda. Declarar verificaciones no realizadas."
+    "qualityGate": "Revisar lógica, contexto, interdependencias, incertidumbre, evidencia, lenguaje, maquetación y archivo exportado cuando corresponda. Declarar verificaciones no realizadas.",
+    "causalReasoning": {
+      "version": "1.0.0",
+      "updated": "2026-10-18",
+      "change_id": "BRAND-THINKING-1.0.0",
+      "canonical_path": "guidelines/pensamiento-causal-explicacion.md",
+      "shared_brands": [
+        "REMO",
+        "Profe Financiero"
+      ],
+      "skill": "analizar-causa-raiz",
+      "skill_integration_version": "1.1.0",
+      "thinking_sequence": [
+        "Observación y contexto",
+        "Mecanismos e hipótesis alternativas",
+        "Contraste con evidencia",
+        "Conclusión delimitada",
+        "Acción y verificación"
+      ],
+      "explanation_sequence": [
+        "Idea principal",
+        "Variables y mecanismo",
+        "Evidencia y límites",
+        "Ejemplo identificado",
+        "Implicación y revisión"
+      ],
+      "methods": [
+        "Cinco porqués",
+        "Ishikawa",
+        "Pareto",
+        "Árbol de fallas",
+        "Matriz es/no es",
+        "Kepner-Tregoe",
+        "8D",
+        "A3",
+        "DMAIC",
+        "PDCA/PDSA",
+        "AMEF/FMEA",
+        "Control estadístico",
+        "Inferencia causal"
+      ],
+      "method_selection": "Proporcional al problema; las herramientas generan o contrastan hipótesis y no acreditan por sí solas causalidad.",
+      "evidence_rules": [
+        "Conservar población, período y denominadores",
+        "Distinguir correlación y causalidad",
+        "Buscar evidencia adversa y explicaciones rivales",
+        "Separar implementación y eficacia",
+        "Identificar ejemplos simulados",
+        "Examinar restricciones sin culpabilizar personas"
+      ],
+      "brand_application": {
+        "REMO": "Problema empresarial, mecanismo, evidencia, alternativas, decisión y seguimiento",
+        "Profe Financiero": "Situación cercana, concepto, mecanismo, ejemplo y acción practicable con respeto al contexto del hogar"
+      },
+      "availability_rule": "La referencia a una skill o motor no acredita disponibilidad ni ejecución en otro entorno."
+    }
   },
   "experience": {
     "version": "1.0.0",

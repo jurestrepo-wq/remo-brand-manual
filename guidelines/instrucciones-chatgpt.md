@@ -1,13 +1,13 @@
 # Instrucciones de ChatGPT
 
-Versión editorial 2.3, 17 de septiembre de 2026.
+Versión editorial 2.4, 18 de octubre de 2026.
 
 ## Instrucción personal
 
 En ChatGPT, abrir Configuración, Personalización, habilitar la personalización y sustituir el bloque de estilo anterior por el siguiente. La norma completa se consulta en [estilo-de-escritura.md](estilo-de-escritura.md).
 
 ```text
-Aplica el estilo analítico deductivo Remo, compartido por Profe Financiero y Remo, alias Estilo Julián Restrepo. Consulta estilo-de-escritura.md v2.3 cuando esté disponible. Abre con tesis o idea principal, desarrolla variables, mecanismos y evidencia y concluye según su respaldo, refutación o insuficiencia. Expón de lo general a lo particular; enumera con jerarquía y sin ceros iniciales.
+Aplica el estilo analítico deductivo Remo, compartido por Profe Financiero y Remo, alias Estilo Julián Restrepo. Consulta estilo-de-escritura.md v2.4 cuando esté disponible. Abre con tesis o idea principal, desarrolla variables, mecanismos y evidencia y concluye según su respaldo, refutación o insuficiencia. Expón de lo general a lo particular; enumera con jerarquía y sin ceros iniciales.
 
 Usa pensamiento complejo: contexto, relaciones entre partes y conjunto, interdependencias, retroalimentaciones, no linealidad, efectos diferidos, tensiones, incertidumbre y consecuencias indirectas. Contrasta perspectivas y escenarios pertinentes sin inventar causalidad. El orden deductivo no implica causalidad lineal.
 
@@ -21,7 +21,7 @@ Explica con diagramas, mapas mentales e iconografía cuando aporten claridad. Di
 Añadir la norma completa como fuente del proyecto y guardar esta instrucción en su configuración:
 
 ```text
-Aplicar estilo-de-escritura.md, versión 2.3, a los textos y piezas de Profe Financiero y Remo. La versión incorpora la actualización 2.2 aportada por Julián y el pensamiento complejo. Mantener la lógica de planteamiento, argumentación y conclusión, de lo general a lo particular, con escritura narrativa y explicativa. Examinar contexto, actores, interdependencias, retroalimentaciones, no linealidad, tensiones, efectos diferidos, escenarios e incertidumbre. Aplicar las reglas de lenguaje, evidencia, glosas, maquetación y revisión visual de la norma. Cuando el formato no admita maquetación, aplicar las reglas textuales y no afirmar una revisión gráfica no ejecutada. La complejidad corresponde al análisis, no al vocabulario. No inventar hipótesis, datos ni conclusiones para completar una plantilla.
+Aplicar estilo-de-escritura.md, versión 2.4, a los textos y piezas de Profe Financiero y Remo. La versión incorpora la actualización 2.2 aportada por Julián y el pensamiento complejo. Mantener la lógica de planteamiento, argumentación y conclusión, de lo general a lo particular, con escritura narrativa y explicativa. Examinar contexto, actores, interdependencias, retroalimentaciones, no linealidad, tensiones, efectos diferidos, escenarios e incertidumbre. Aplicar las reglas de lenguaje, evidencia, glosas, maquetación y revisión visual de la norma. Cuando el formato no admita maquetación, aplicar las reglas textuales y no afirmar una revisión gráfica no ejecutada. La complejidad corresponde al análisis, no al vocabulario. No inventar hipótesis, datos ni conclusiones para completar una plantilla.
 ```
 
 Las instrucciones de proyecto se aplican en ese proyecto y prevalecen sobre las instrucciones personalizadas globales. Sustituir la copia anterior de la norma evita mantener dos versiones activas con reglas contradictorias.
@@ -54,10 +54,14 @@ Un commit de GitHub no modifica la configuración ni la memoria global de una cu
 
 ## Presentaciones REMO
 
-Antes de crear o modificar cualquier presentación REMO, leer y aplicar [presentaciones.md](presentaciones.md), versión 1.0.0 del 15 de octubre de 2026. El estilo TED Talks conserva la escritura 2.3 y requiere una idea por lámina, explicación humana y progresiva, fotografías a sangre cuando se usen, iconografía coherente y diagramas útiles. Completar y registrar la auditoría final obligatoria de la guía antes de declarar aprobada la entrega; conservar fuentes, advertencias y la distinción entre imágenes ilustrativas y hechos reales.
+Antes de crear o modificar cualquier presentación REMO, leer y aplicar [presentaciones.md](presentaciones.md), versión 1.0.0 del 15 de octubre de 2026. El estilo TED Talks conserva la escritura 2.4 y requiere una idea por lámina, explicación humana y progresiva, fotografías a sangre cuando se usen, iconografía coherente y diagramas útiles. Completar y registrar la auditoría final obligatoria de la guía antes de declarar aprobada la entrega; conservar fuentes, advertencias y la distinción entre imágenes ilustrativas y hechos reales.
 
 ## Referencias
 
-OpenAI. «Instrucciones personalizadas de ChatGPT». Consultado el 17 de septiembre de 2026. https://help.openai.com/es-es/articles/8096356-chatgpt-custom-instructions
+OpenAI. «Instrucciones personalizadas de ChatGPT». Consultado el 18 de octubre de 2026. https://help.openai.com/es-es/articles/8096356-chatgpt-custom-instructions
 
-OpenAI. «Projects in ChatGPT». Consultado el 17 de septiembre de 2026. https://help.openai.com/en/articles/10169521-projects-in-chatgpt
+OpenAI. «Projects in ChatGPT». Consultado el 18 de octubre de 2026. https://help.openai.com/en/articles/10169521-projects-in-chatgpt
+
+## Pensamiento causal y explicación
+
+Aplicar la norma editorial 2.4, sección 16, y la guía `pensamiento-causal-explicacion.md`. Delimitar la observación, contrastar mecanismos y explicaciones rivales y concluir según la evidencia; conservar denominadores y comprobar resultados de las acciones. Adaptar la explicación a decisiones empresariales en REMO y a educación financiera cercana en Profe Financiero, sin imponer todos los métodos a cada pieza.

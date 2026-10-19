@@ -2,8 +2,8 @@
 title: Estilo de escritura, ensayo argumentativo hipotético-deductivo
 section: Fundamentos verbales, pensamiento complejo, sistema gráfico y maquetación
 brand: Remo Group, Profe Financiero
-version: 2.3
-updated: 2026-09-17
+version: 2.4
+updated: 2026-10-18
 ---
 
 # Estilo de escritura, ensayo argumentativo hipotético-deductivo
@@ -24,7 +24,7 @@ Admite dos enfoques. El académico o científico, que ordena introducción, meto
 
 Todo texto, del informe extenso al párrafo suelto, sigue tres momentos.
 
-**1. Planteamiento.** Enuncia la tesis o la hipótesis que se quiere demostrar. Es el punto de partida y aparece antes de cualquier detalle.
+**1. Planteamiento.** Enuncia la tesis, hipótesis o idea principal que se quiere examinar. Es el punto de partida y aparece antes de cualquier detalle.
 
 **2. Cuerpo argumentativo.** Desglosa los componentes, expone cómo se relacionan las variables y presenta las pruebas, los datos y el marco de análisis. Cada variable se trata una vez y en el nivel de detalle que le corresponde.
 
@@ -41,7 +41,7 @@ Todo texto, del informe extenso al párrafo suelto, sigue tres momentos.
 
 - **Tercera persona del singular.** El sujeto es la empresa, el mercado, el comprador, el lote o el proceso: «la empresa cuenta con», «el lote deja», «la operación exige». No se usa primera persona del plural ni se habla al lector en segunda persona, salvo en un llamado a la acción de pieza comercial.
 - **Registro de consultor corporativo con rigor académico.** La escritura corresponde a un profesional con formación doctoral en ingeniería y en economía: explica el mecanismo, expone el razonamiento y sustenta la conclusión con datos. El texto argumenta, no opina.
-- **Explicativo y argumentativo.** Cada afirmación relevante indica su causa, su magnitud y su consecuencia económica u operativa. Una cifra sin interpretación queda incompleta; una interpretación sin cifra no se publica.
+- **Explicativo y argumentativo.** Cada afirmación relevante distingue la observación, el mecanismo propuesto y su consecuencia económica u operativa. La evidencia puede ser cuantitativa o cualitativa; una cifra se interpreta y una explicación sin respaldo se presenta como hipótesis.
 - **Español de Colombia, sentence case.** Mayúsculas sostenidas solo en antetítulos cortos.
 
 ## 2. Puntuación
@@ -216,3 +216,75 @@ La página se compone con una sola cadencia vertical y con el blanco repartido, 
 - El orden deductivo no se confunde con una explicación causal lineal.
 - Los diagramas distinguen relaciones observadas, hipótesis y vínculos pendientes de validar.
 - Las conclusiones reconocen incertidumbre y las condiciones que justificarían revisarlas.
+
+## 16. Pensamiento causal y explicación verificable
+
+### 16.1. Fundamento compartido
+
+REMO y Profe Financiero explican los problemas mediante contexto, variables, mecanismos y evidencia. La causa puede surgir de varias condiciones que interactúan; el análisis examina también las barreras, los incentivos, las restricciones y las consecuencias indirectas.
+
+El análisis de causa raíz forma parte del estilo de pensamiento, escritura y explicación de ambas marcas. La lógica conserva la tesis inicial, el desarrollo de variables y la conclusión sustentada, con profundidad proporcional al formato.
+
+### 16.2. Observación y causalidad
+
+La observación describe lo ocurrido; la hipótesis propone una explicación; el mecanismo expone cómo podría producirse el resultado. La conclusión indica qué explicación está respaldada, cuál sigue abierta y qué evidencia permitiría revisarla.
+
+Se distinguen síntoma, evento, condición contribuyente, mecanismo, causa sistémica y barrera. La secuencia temporal, la correlación, el consenso y un diagrama no demuestran por sí solos una relación causal.
+
+La investigación examina casos afectados y casos comparables sin el resultado, conserva los denominadores y busca evidencia contradictoria. La falta de un registro se diferencia de la ausencia comprobada del fenómeno.
+
+### 16.3. Selección metodológica
+
+| Necesidad | Método | Criterio de uso |
+|---|---|---|
+| Delimitación del problema | Matriz es/no es y análisis de situación | Casos comparables y diferencias documentadas |
+| Profundización de un mecanismo | Cinco porqués | Evidencia por enlace, sin forzar cinco niveles |
+| Exploración de explicaciones | Ishikawa | Ramas como hipótesis, adaptadas al contexto |
+| Priorización de categorías | Pareto | Magnitud homogénea y acumulado observado, sin imponer el 80/20 |
+| Combinaciones de fallas | Árbol de fallas | Compuertas AND/OR explícitas y eventos compartidos identificados |
+| Contraste y decisión | Kepner-Tregoe e inferencia causal cuando corresponda | Alternativas, supuestos y explicaciones rivales |
+| Acción y aprendizaje | 8D, A3, DMAIC, PDCA o PDSA | Marco proporcional al problema y seguimiento verificable |
+| Prevención y seguimiento | AMEF, barreras y control estadístico | Riesgos potenciales, controles y exposición pertinente |
+
+La herramienta se elige por la necesidad de explicación o decisión. Su nombre no acredita la conclusión y su uso no obliga a mostrar todas las etapas en una pieza breve.
+
+### 16.4. Secuencia de escritura y explicación
+
+1. Idea rectora, con el alcance y el estado de evidencia que corresponda.
+2. Situación observada, diferencia frente a lo esperado y magnitud disponible.
+3. Variables y mecanismos que podrían explicar el resultado, con alternativas pertinentes.
+4. Evidencia favorable, evidencia adversa y límites de la interpretación.
+5. Ejemplo verificable o ilustrativo identificado y representación visual cuando aclare.
+6. Conclusión sustentada, acción proporcional y criterio para revisar su resultado.
+
+En contenido breve, integrar una idea, un mecanismo, un ejemplo y una implicación practicable. En una investigación abierta, la idea rectora puede ser una hipótesis o un hallazgo descriptivo; no anticipar una causa verificada para conseguir una apertura contundente.
+
+La redacción conserva lenguaje técnico comprensible, español de Colombia y bloques de hasta tres oraciones. Los términos metodológicos se explican cuando aportan precisión, sin convertir cada publicación en una clase de herramientas.
+
+### 16.5. Aplicación por marca
+
+| Dimensión | REMO | Profe Financiero |
+|---|---|---|
+| Finalidad | Decisión empresarial y mejora de procesos | Comprensión y autonomía para decidir |
+| Contexto | Cliente, operación, proveedores, datos, controles y entorno | Persona, hogar, ingresos, obligaciones, emociones y entorno |
+| Explicación | Problema, mecanismo, evidencia, alternativas y decisión | Situación cercana, concepto, mecanismo, ejemplo y acción |
+| Lenguaje | Consultivo, preciso y trazable | Cercano, pedagógico y respetuoso |
+| Cierre | Responsable, condición de avance y seguimiento | Acción practicable y señal para revisar el resultado |
+
+REMO examina cómo el diseño del proceso, las dependencias y los controles contribuyen al resultado. Profe Financiero explica las decisiones dentro de sus restricciones económicas, familiares e institucionales; evita reducir una dificultad a disciplina, voluntad o desconocimiento.
+
+El análisis evita culpabilizar a personas y mantiene responsabilidades concretas sustentadas en evidencia. La identidad visual y la oferta de cada marca conservan sus fuentes propias.
+
+### 16.6. Visualización y aprendizaje
+
+La tabla compara casos, supuestos y alternativas; el mapa muestra interdependencias; la cronología ordena eventos; el árbol expone combinaciones lógicas. Cada vínculo distingue observación, asociación, dependencia, secuencia o causalidad propuesta.
+
+Los gráficos preservan unidad, población, período, denominador y escala. Una reducción de errores absolutos o una mejora posterior a una acción requiere comparabilidad antes de atribuirle eficacia.
+
+La acción se vincula con un mecanismo y con una forma de verificación. Se distinguen implementación, funcionamiento técnico y mejora observada; la eficacia exige evidencia pertinente y exposición suficiente, con seguimiento de efectos no previstos.
+
+### 16.7. Control editorial causal
+
+La revisión comprueba correspondencia entre tesis, evidencia y conclusión. Verifica alternativas, denominadores, sentido de los diagramas y distinción entre casos reales, testimonios y ejemplos simulados.
+
+Las promesas se limitan a lo sustentado y las causas pendientes permanecen abiertas. La conclusión reconoce cuándo corresponde revisar el mecanismo, cambiar la acción o reunir más evidencia.
