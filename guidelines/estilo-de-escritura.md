@@ -298,3 +298,9 @@ En la voz propia de REMO se utiliza **presupuesto**, no **cotización**, para pr
 La regla aplica a marketing, ventas, CTA, newsletter, correos, WhatsApp, web, presentaciones, propuestas, plantillas y textos visibles de interfaces. Ejemplo aprobado: «Solicita el presupuesto de tu próxima importación o exportación con REMO». La revisión editorial debe comprobar sustantivos y verbos, también en las adaptaciones de canal.
 
 Conservar íntegros los nombres técnicos, identificadores, URLs, documentos históricos y citas literales de terceros; no reescribirlos para simular cumplimiento. La regla corresponde a REMO y no cambia la voz de Profe Financiero. Es una instrucción editorial, no una modificación de precios, condiciones contractuales, estrategia ACTIVE ni permisos de envío.
+
+## Limpieza editorial obligatoria del newsletter REMO
+
+Aplicar REMO-NL-001, aprobada por Julián Esteban Restrepo Montoya el 24 de octubre de 2026, antes de escribir, diseñar, revisar, exportar o preparar la emisión de cualquier newsletter. Fuente canónica: https://github.com/jurestrepo-wq/remo-newsletter/blob/main/NORMA_EDITORIAL_NEWSLETTER.md.
+
+La pieza para clientes no contiene notas al pie, comentarios internos, prompts, huellas de producción, aclaraciones de elaboración ni metadatos prescindibles. Usar citas autor-fecha y referencias APA vigentes, APA 7 al aprobar esta norma. Mantener evidencia material, condiciones de aplicación, incertidumbre relevante, accesibilidad y enlaces funcionales de contacto y suscripción. Registrar controles y pendientes fuera de la pieza; no simular autoría humana ni aprobación por eliminar residuos. La norma no autoriza envíos ni publicaciones.
