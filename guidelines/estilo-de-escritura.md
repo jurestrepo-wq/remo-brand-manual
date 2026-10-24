@@ -288,3 +288,13 @@ La acción se vincula con un mecanismo y con una forma de verificación. Se dist
 La revisión comprueba correspondencia entre tesis, evidencia y conclusión. Verifica alternativas, denominadores, sentido de los diagramas y distinción entre casos reales, testimonios y ejemplos simulados.
 
 Las promesas se limitan a lo sustentado y las causas pendientes permanecen abiertas. La conclusión reconoce cuándo corresponde revisar el mecanismo, cambiar la acción o reunir más evidencia.
+
+## 17. Terminología comercial específica de REMO
+
+**Identificador:** REMO-LEX-001. **Versión:** 1.0. **Fecha y aprobación:** 24 de octubre de 2026, instrucción expresa de Julián Esteban Restrepo Montoya.
+
+En la voz propia de REMO se utiliza **presupuesto**, no **cotización**, para presentar o solicitar el valor y las condiciones de una operación o servicio. Se usan **presupuestar**, **solicitar un presupuesto**, **preparar un presupuesto** y **enviar un presupuesto**; se evita **cotizar**, **solicitar una cotización**, **cotizaciones** y **cotiza** con ese sentido.
+
+La regla aplica a marketing, ventas, CTA, newsletter, correos, WhatsApp, web, presentaciones, propuestas, plantillas y textos visibles de interfaces. Ejemplo aprobado: «Solicita el presupuesto de tu próxima importación o exportación con REMO». La revisión editorial debe comprobar sustantivos y verbos, también en las adaptaciones de canal.
+
+Conservar íntegros los nombres técnicos, identificadores, URLs, documentos históricos y citas literales de terceros; no reescribirlos para simular cumplimiento. La regla corresponde a REMO y no cambia la voz de Profe Financiero. Es una instrucción editorial, no una modificación de precios, condiciones contractuales, estrategia ACTIVE ni permisos de envío.
