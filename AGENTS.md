@@ -8,6 +8,7 @@ Before writing, designing or editing any Remo text, document, response, presenta
 4. `guidelines/experiencia-productos-informes.md`
 5. `guidelines/adopcion-experiencia-remo.md` for product work and new repositories
 6. `guidelines/presentaciones.md` before every presentation
+7. `guidelines/formas-curvas-wireframes.md` before every visual composition or wireframe
 
 Apply writing standard 2.4 dated 2026-10-18. Its editorial name is ensayo argumentativo hipotético-deductivo, abbreviated estilo analítico deductivo Remo; Estilo Julián Restrepo remains a recognized alias. Apply it by default to both brands' content with depth proportional to the task.
 
@@ -35,7 +36,7 @@ Every business result must have a legible PDF delivery, with graphical explanati
 
 ## Presentations and mandatory final audit
 
-Apply BRAND-PRESENTATIONS-1.0.0 dated 2026-10-15 to every new or modified REMO presentation. Read the canonical presentation guide before scripting or designing. Use TED Talks style: human, simple, step-by-step oral support with one idea per slide, authentic-looking context-relevant photography, consistent functional iconography and useful diagrams. Photographs are full bleed when used; clear brand backgrounds remain appropriate for process and data slides. Preserve writing standard 2.4 and official assets.
+Apply BRAND-PRESENTATIONS-1.0.0 dated 2026-10-15 to every new or modified REMO presentation. Read the canonical presentation guide before scripting or designing. Use TED Talks style: human, simple, step-by-step oral support with one idea per slide, authentic-looking context-relevant photography, consistent functional iconography and useful diagrams. Photographs and visual components use visible curved or rounded contours under REMO-VIS-001; this supersedes rectangular full-bleed photography. Clear brand backgrounds remain appropriate for process and data slides. Preserve writing standard 2.4 and official assets.
 
 Before delivery, open and inspect every final slide and complete the guide's mandatory audit for content, voice, brand, logic, contrast, anatomy, legibility, diagrams, PDF/PPTX concordance, editability, fonts and cleanup. Remove internal production residue while retaining sources, meaningful warnings, useful speaker notes and necessary illustrative-image disclosures. Never present generated imagery as documentary proof. Record evidence and unresolved checks; do not claim audited approval with pending controls.
 
@@ -52,3 +53,7 @@ En la voz propia de REMO se utiliza **presupuesto**, no **cotización**, para pr
 La regla aplica a marketing, ventas, CTA, newsletter, correos, WhatsApp, web, presentaciones, propuestas, plantillas y textos visibles de interfaces. Ejemplo aprobado: «Solicita el presupuesto de tu próxima importación o exportación con REMO». La revisión editorial debe comprobar sustantivos y verbos, también en las adaptaciones de canal.
 
 Conservar íntegros los nombres técnicos, identificadores, URLs, documentos históricos y citas literales de terceros; no reescribirlos para simular cumplimiento. La regla corresponde a REMO y no cambia la voz de Profe Financiero. Es una instrucción editorial, no una modificación de precios, condiciones contractuales, estrategia ACTIVE ni permisos de envío.
+
+## Formas curvas y wireframes obligatorios
+
+Aplicar REMO-VIS-001 a imágenes, tarjetas, marcos, botones, contenedores y wireframes de REMO: círculos, óvalos, formas orgánicas o esquinas claramente redondeadas, sin vértices rectos de 90 grados. Coordinar arquitectura de información y wireframes con diseño gráfico; verificar lectura, jerarquía, contraste, encuadre, escritorio, móvil y exportación. Conservar identidad de personas, activos oficiales y geometría técnica necesaria para datos y notaciones. Fuente canónica: `guidelines/formas-curvas-wireframes.md`.

@@ -4,7 +4,7 @@ Sitio estático del Manual Integral de Marca de Remo Group S.A.S.
 
 ## Presentaciones
 
-La [norma de presentaciones 1.0.0](guidelines/presentaciones.md), del 15 de octubre de 2026, es de lectura y aplicación obligatorias para toda presentación REMO nueva o modificada. Define estilo TED Talks, explicación humanizada y paso a paso, una idea por lámina, fotografías a sangre cuando se utilicen, iconografía funcional y diagramas útiles, conservando el estilo editorial 2.4.
+La [norma de presentaciones 1.0.0](guidelines/presentaciones.md), del 15 de octubre de 2026, es de lectura y aplicación obligatorias para toda presentación REMO nueva o modificada. Define estilo TED Talks, explicación humanizada y paso a paso, una idea por lámina, fotografías con contornos curvos según REMO-VIS-001, iconografía funcional y diagramas útiles, conservando el estilo editorial 2.4.
 
 La entrega requiere auditoría final de contenido, voz, marca, lógica, contraste, anatomía, legibilidad, diagramas, concordancia PDF/PPTX, editabilidad, fuentes tipográficas y limpieza. Las fuentes de evidencia y advertencias sustantivas se conservan. La norma está conectada a `AGENTS.md` y `brand-engine.json`; su publicación no acredita adopción automática en agentes o proyectos externos.
 
@@ -71,3 +71,7 @@ Los binarios originales quedaron como placeholders `dataless` en macOS. El manua
 ## Pensamiento causal y explicación
 
 La [guía de pensamiento causal y explicación](guidelines/pensamiento-causal-explicacion.md) incorpora el análisis de causa raíz a la norma editorial 2.4. La lógica compartida distingue observación, mecanismo, hipótesis, evidencia y acción verificable; REMO prioriza decisiones empresariales y Profe Financiero, comprensión y autonomía financiera.
+
+## Formas curvas y wireframes
+
+La [norma REMO-VIS-001](guidelines/formas-curvas-wireframes.md), aprobada por Julián el 24 de octubre de 2026, exige imágenes y componentes con contornos curvos y esquinas redondeadas, en armonía con el logo. Aplica también a los wireframes desde baja fidelidad, con trabajo conjunto entre arquitectura de información y diseño gráfico. El [manual web](index.html#formas-curvas-wireframes) y `brand-engine.json` incorporan el criterio.

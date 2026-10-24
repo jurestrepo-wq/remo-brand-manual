@@ -37,3 +37,7 @@ La entrega exige la lista completa de revisión. Los pendientes se identifican y
 ## Pensamiento causal y explicación
 
 La [guía de pensamiento causal y explicación](pensamiento-causal-explicacion.md) incorpora el análisis de causa raíz a la norma editorial 2.4. La lógica compartida distingue observación, mecanismo, hipótesis, evidencia y acción verificable; REMO prioriza decisiones empresariales y Profe Financiero, comprensión y autonomía financiera.
+
+## Formas curvas y wireframes
+
+Aplicar [REMO-VIS-001](formas-curvas-wireframes.md), aprobada el 24 de octubre de 2026. Las imágenes, sus máscaras y los componentes de marca usan círculos, óvalos, formas orgánicas y esquinas claramente redondeadas. No se admiten marcos o contenedores con esquinas rectas; el criterio también rige los wireframes desde baja fidelidad, con jerarquía, orden de lectura y adaptación a móvil verificados.

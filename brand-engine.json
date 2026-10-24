@@ -1,6 +1,6 @@
 {
   "brand": "Remo Group S.A.S.",
-  "version": "2026-10-18-thinking-1.0.0-writing-style-2.4",
+  "version": "2026-10-24-visual-1.0.0-writing-style-2.4",
   "source": "Assets vectorizados cargados por Remo en Codex",
   "logos": {
     "primaryBlackVectorPdf": "assets/source/remo-logo-negro-vectorizado.pdf",
@@ -48,7 +48,8 @@
     "Leer guidelines/estilo-de-escritura.md antes de todo texto o pieza visual; la norma 2.4 integra la revisión 2.2 del usuario y el pensamiento complejo.",
     "Leer guidelines/experiencia-productos-informes.md para todo desarrollo e informe REMO; aplicar BRAND-EXPERIENCE-1.0.0 y verificar exportaciones.",
     "Leer guidelines/presentaciones.md antes de toda presentación REMO; aplicar BRAND-PRESENTATIONS-1.0.0 y completar la auditoría final obligatoria por entrega.",
-    "Aplicar guidelines/pensamiento-causal-explicacion.md como estilo de pensamiento y explicación; adaptar la voz a cada marca."
+    "Aplicar guidelines/pensamiento-causal-explicacion.md como estilo de pensamiento y explicación; adaptar la voz a cada marca.",
+    "Aplicar REMO-VIS-001: imágenes, componentes y wireframes con contornos curvos y esquinas claramente redondeadas; sin marcos con vértices rectos. Leer guidelines/formas-curvas-wireframes.md."
   ],
   "writingStyle": {
     "version": "2.4",
@@ -299,7 +300,7 @@
     "adoptionRule": "Verificar y registrar conformidad por entrega; publicar la norma no migra aplicaciones existentes."
   },
   "presentations": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "updated": "2026-10-15",
     "changeId": "BRAND-PRESENTATIONS-1.0.0",
     "canonicalPath": "guidelines/presentaciones.md",
@@ -307,11 +308,13 @@
     "scope": "Toda presentación REMO nueva o modificada",
     "style": "TED Talks: explicación humanizada, visual, simple y paso a paso; una idea por lámina y soporte oral",
     "photography": {
-      "fullBleedWhenUsed": true,
+      "fullBleedWhenUsed": false,
       "requiredOnEverySlide": false,
       "contextRelevant": true,
       "illustrativeDisclosureWhenNeeded": true,
-      "documentaryClaimsRequireEvidence": true
+      "documentaryClaimsRequireEvidence": true,
+      "visibleCurvedContourRequired": true,
+      "geometryRule": "REMO-VIS-001"
     },
     "iconography": "Coherente y abundante cuando aporte comprensión; sin cuotas ni decoración redundante",
     "finalAudit": {
@@ -373,6 +376,51 @@
       "estrategia ACTIVE",
       "precios",
       "permisos"
+    ]
+  },
+  "visualGeometry": {
+    "id": "REMO-VIS-001",
+    "version": "1.0.0",
+    "status": "APPROVED_MANDATORY",
+    "approvedOn": "2026-10-24",
+    "approvedBy": "Julián Esteban Restrepo Montoya",
+    "canonicalPath": "guidelines/formas-curvas-wireframes.md",
+    "scope": [
+      "imágenes",
+      "fotografía",
+      "tarjetas",
+      "marcos",
+      "botones",
+      "contenedores",
+      "wireframes",
+      "newsletter",
+      "web",
+      "presentaciones",
+      "documentos"
+    ],
+    "allowedContours": [
+      "circular",
+      "ovalado",
+      "orgánico curvo",
+      "esquinas claramente redondeadas"
+    ],
+    "forbiddenContours": [
+      "marcos cuadrados con vértices rectos",
+      "marcos rectangulares con vértices rectos"
+    ],
+    "wireframesFromLowFidelity": true,
+    "preserve": [
+      "facciones y expresiones",
+      "activos oficiales",
+      "lectura y accesibilidad",
+      "geometría de datos y notaciones técnicas"
+    ],
+    "review": [
+      "jerarquía",
+      "legibilidad",
+      "escritorio y móvil",
+      "recortes",
+      "exportación"
     ]
   }
 }

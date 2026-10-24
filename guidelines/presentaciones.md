@@ -1,7 +1,7 @@
 ---
 title: Presentaciones REMO
-version: 1.0.0
-updated: 2026-10-15
+version: 1.0.1
+updated: 2026-10-24
 changeId: BRAND-PRESENTATIONS-1.0.0
 ---
 
@@ -28,7 +28,7 @@ La publicación establece una obligación documental para los agentes y equipos 
 
 Las fotografías y las ilustraciones fotográficas hiperrealistas deben tener apariencia natural y auténtica, anatomía plausible, iluminación coherente y contexto pertinente para la audiencia. La selección atiende personas, actividad, territorio, arquitectura y entorno empresarial; para encargos situados en Medellín se utiliza contexto pertinente de Medellín, sin convertir esa ubicación en una regla para todas las presentaciones.
 
-Cuando se emplee fotografía, la composición será a sangre, de borde a borde de la lámina. Se reserva una zona legible para texto y se utiliza un tratamiento de contraste sobrio cuando haga falta. El recorte conserva el significado de la escena y evita mutilaciones accidentales, deformación y fondos que compitan con la idea.
+Cuando se emplee fotografía, su contorno visible será circular, ovalado, orgánico o con esquinas claramente redondeadas, conforme a [REMO-VIS-001](formas-curvas-wireframes.md). Esta actualización sustituye el requisito previo de fotografía rectangular a sangre. Se reserva una zona legible para texto y se utiliza un tratamiento de contraste sobrio cuando haga falta. El recorte conserva el significado de la escena y evita mutilaciones accidentales, deformación y fondos que compitan con la idea.
 
 No todas las láminas requieren fotografía. Los procesos, gráficos y diagramas pueden utilizar fondos de marca limpios cuando faciliten la comprensión. Se evita repetir una misma escena como relleno o imponer fotografías detrás de información técnica que pierda legibilidad.
 
@@ -62,7 +62,7 @@ Se abre y revisa el archivo final, no solo el código o la vista de edición. Se
 | Voz y escritura | Norma 2.3, ortografía y gramática verificadas, títulos nominales, ausencia de grandilocuencia y metatexto |
 | Lógica y oralidad | Una idea por lámina, progresión comprensible, transiciones sustantivas y soporte útil al discurso |
 | Marca | Logos oficiales, paleta y tipografías conservados, identidad coherente |
-| Fotografía y anatomía | Contexto pertinente, encuadre a sangre cuando hay fotografía, manos y cuerpos plausibles, perspectivas y objetos sin artefactos |
+| Fotografía y anatomía | Contexto pertinente, encuadre con contornos curvos cuando hay fotografía, manos y cuerpos plausibles, perspectivas y objetos sin artefactos |
 | Contraste y legibilidad | Texto legible sobre el fondo real, jerarquía clara, tamaños adecuados a la presentación, ausencia de recortes y solapamientos |
 | Diagramas y gráficos | Relaciones, flechas, etiquetas, escalas, condiciones y datos correctos; símbolos y trazos consistentes |
 | Concordancia PDF y PPTX | Mismo contenido, orden, cifras, fuentes y advertencias entre los formatos entregados; sin desplazamientos, sustituciones o elementos perdidos |
@@ -78,3 +78,5 @@ Los controles pendientes impiden declarar la presentación auditada y aprobada. 
 ## Registro de cambio
 
 BRAND-PRESENTATIONS-1.0.0, 15 de octubre de 2026. Actualización solicitada por el usuario para todas las presentaciones REMO: estilo TED Talks, humanización, fotografía a sangre cuando se utilice, iconografía funcional, explicación visual, simplicidad y auditoría final obligatoria. Se preservan el estilo editorial 2.3, los activos oficiales y la estrategia corporativa.
+
+REMO-VIS-001, 24 de octubre de 2026. La versión 1.0.1 actualiza únicamente el tratamiento de contornos fotográficos y componentes por instrucción expresa de Julián; conserva los restantes criterios de la norma de presentaciones.
