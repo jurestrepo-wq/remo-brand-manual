@@ -333,5 +333,46 @@
     },
     "cleanup": "Eliminar comentarios internos, prompts, etiquetas de producción, redundancias, numeración arbitraria y rastros de elaboración sin utilidad para el cliente; conservar fuentes, advertencias sustantivas, atribuciones y distinción entre ilustración y hecho.",
     "adoptionRule": "Registrar versión, commit y controles por entrega; la publicación no modifica automáticamente proyectos ni configuraciones externas."
+  },
+  "commercialVocabulary": {
+    "id": "REMO-LEX-001",
+    "version": "1.0",
+    "approvedOn": "2026-10-24",
+    "approvedBy": "Julián Esteban Restrepo Montoya",
+    "scope": [
+      "REMO",
+      "marketing",
+      "ventas",
+      "CTA",
+      "newsletter",
+      "correos",
+      "WhatsApp",
+      "web",
+      "presentaciones",
+      "plantillas",
+      "interfaces"
+    ],
+    "preferredNoun": "presupuesto",
+    "preferredVerb": "presupuestar",
+    "avoidOwnVoice": [
+      "cotización",
+      "cotizaciones",
+      "cotizar",
+      "cotiza"
+    ],
+    "canonicalPath": "guidelines/estilo-de-escritura.md#17-terminología-comercial-específica-de-remo",
+    "approvedExample": "Solicita el presupuesto de tu próxima importación o exportación con REMO",
+    "preserve": [
+      "citas literales de terceros",
+      "documentos históricos",
+      "identificadores",
+      "URLs"
+    ],
+    "doesNotChange": [
+      "Profe Financiero",
+      "estrategia ACTIVE",
+      "precios",
+      "permisos"
+    ]
   }
 }
