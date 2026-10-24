@@ -42,3 +42,13 @@ Before delivery, open and inspect every final slide and complete the guide's man
 ## Causal reasoning and explanation
 
 Apply BRAND-THINKING-1.0.0 and editorial standard 2.4, section 16. Distinguish observations, mechanisms, hypotheses, alternatives and evidence; use RCA tools proportionally, retain denominators and check efficacy separately from implementation. Use the shared causal guide and adapt REMO to business decisions and Profefinanciero to respectful financial education. Do not require confirmation for every methodological phase within an authorized task.
+
+## Regla terminológica de REMO para marketing y ventas
+
+**Identificador:** REMO-LEX-001. **Versión:** 1.0. **Fecha y aprobación:** 24 de octubre de 2026, instrucción expresa de Julián Esteban Restrepo Montoya.
+
+En la voz propia de REMO se utiliza **presupuesto**, no **cotización**, para presentar o solicitar el valor y las condiciones de una operación o servicio. Se usan **presupuestar**, **solicitar un presupuesto**, **preparar un presupuesto** y **enviar un presupuesto**; se evita **cotizar**, **solicitar una cotización**, **cotizaciones** y **cotiza** con ese sentido.
+
+La regla aplica a marketing, ventas, CTA, newsletter, correos, WhatsApp, web, presentaciones, propuestas, plantillas y textos visibles de interfaces. Ejemplo aprobado: «Solicita el presupuesto de tu próxima importación o exportación con REMO». La revisión editorial debe comprobar sustantivos y verbos, también en las adaptaciones de canal.
+
+Conservar íntegros los nombres técnicos, identificadores, URLs, documentos históricos y citas literales de terceros; no reescribirlos para simular cumplimiento. La regla corresponde a REMO y no cambia la voz de Profe Financiero. Es una instrucción editorial, no una modificación de precios, condiciones contractuales, estrategia ACTIVE ni permisos de envío.
