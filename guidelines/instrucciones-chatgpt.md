@@ -65,3 +65,11 @@ OpenAI. «Projects in ChatGPT». Consultado el 18 de octubre de 2026. https://he
 ## Pensamiento causal y explicación
 
 Aplicar la norma editorial 2.4, sección 16, y la guía `pensamiento-causal-explicacion.md`. Delimitar la observación, contrastar mecanismos y explicaciones rivales y concluir según la evidencia; conservar denominadores y comprobar resultados de las acciones. Adaptar la explicación a decisiones empresariales en REMO y a educación financiera cercana en Profe Financiero, sin imponer todos los métodos a cada pieza.
+
+## Aplicación obligatoria del manual a toda entrega REMO
+
+Instrucción permanente de Julián Restrepo, 12 de noviembre de 2026. En cada solicitud de REMO, incluso interna, preliminar o de una sola página, aplicar de oficio el manual vigente a todos los documentos y demás entregables de marca, incluidos reportes, propuestas, hojas de ruta, presentaciones, hojas de cálculo, tableros y exportaciones. Rige también para revisiones, anexos y formatos editables. La persona solicitante no necesita repetir la instrucción.
+
+Antes de diseñar, consultar en la rama principal de [remo-brand-manual](https://github.com/jurestrepo-wq/remo-brand-manual) el motor de marca, la guía editorial, la guía general y las guías y plantillas del formato. Usar los activos oficiales, la tipografía, paleta, proporciones, espacios, formas y voz vigentes. Transmitir la misma revisión del manual a las áreas que intervengan. Adaptar la aplicación al soporte y preservar la integridad de cifras y fuentes.
+
+Antes de entregar, abrir la salida final en su formato de uso, revisar cada página o vista y corregir desviaciones de identidad, jerarquía, legibilidad, recortes, distorsión y exportación. Registrar en la evidencia de trabajo la revisión del manual, el archivo revisado, las verificaciones ejecutadas y los pendientes. Cuando falte un activo o no pueda verificarse una regla aplicable, identificar el punto afectado y mantenerlo pendiente de conformidad. Aplicar este control en la siguiente edición de cada pieza existente.
