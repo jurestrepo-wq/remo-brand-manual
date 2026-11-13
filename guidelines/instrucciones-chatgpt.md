@@ -73,3 +73,11 @@ Instrucción permanente de Julián Restrepo, 12 de noviembre de 2026. En cada so
 Antes de diseñar, consultar en la rama principal de [remo-brand-manual](https://github.com/jurestrepo-wq/remo-brand-manual) el motor de marca, la guía editorial, la guía general y las guías y plantillas del formato. Usar los activos oficiales, la tipografía, paleta, proporciones, espacios, formas y voz vigentes. Transmitir la misma revisión del manual a las áreas que intervengan. Adaptar la aplicación al soporte y preservar la integridad de cifras y fuentes.
 
 Antes de entregar, abrir la salida final en su formato de uso, revisar cada página o vista y corregir desviaciones de identidad, jerarquía, legibilidad, recortes, distorsión y exportación. Registrar en la evidencia de trabajo la revisión del manual, el archivo revisado, las verificaciones ejecutadas y los pendientes. Cuando falte un activo o no pueda verificarse una regla aplicable, identificar el punto afectado y mantenerlo pendiente de conformidad. Aplicar este control en la siguiente edición de cada pieza existente.
+
+### Estructura visual de todos los documentos REMO
+
+Por instrucción de Julián Restrepo del 12 de noviembre de 2026, organizar cada documento nuevo o revisado de REMO en tarjetas y bloques con títulos informativos. Representar las relaciones y decisiones mediante diagramas, y las rutas de trabajo como procesos con etapas y sentido de lectura explícitos. Aplicar esta arquitectura al archivo editable y a cada exportación, incluidos borradores, documentos internos, anexos e informes extensos.
+
+Asignar una pregunta de lectura a cada bloque. En un proceso, mostrar en cada etapa el responsable, el entregable y la condición de avance cuando correspondan. Situar la evidencia, las cifras, sus unidades y sus fuentes junto a la decisión que sustentan. Integrar las tablas de detalle dentro de bloques identificables. Conservar el contenido técnico, el orden lógico y las referencias al reorganizar un documento existente.
+
+Verificar el renderizado página por página: recorrido inequívoco, tarjetas legibles, conexiones comprensibles, ausencia de cortes y aplicación del manual de marca. Corregir la composición antes de entregar y registrar la revisión realizada.
